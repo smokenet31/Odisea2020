@@ -1,0 +1,16 @@
+[
+	{
+		"title": "Carta 0 de prueba",
+		"description": "Descripcion carta 0",
+		"img": "0",
+		"options":[
+			"opcion 1",
+			"opcion 2"
+		]
+	},
+	{
+		"title": "Carta 1",
+		"description": "Descripcion carta 1",
+		"img": "1"
+	}
+]
