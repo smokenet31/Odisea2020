@@ -1,16 +1,1127 @@
 [
 	{
 		"title": "Carta 0 de prueba",
-		"description": "Descripcion carta 0",
+		"description": "En estos últimos cinco días, tú y tus padres han estado recorriendo California. Ahora, mientras descansas en la cama del motel del otro lado de la habitación donde duermen tu papá y tu mamá, te asaltan imágenes de todo tipo. El sábado volaste desde tu hogar en Cleveland, Ohio, hasta San Diego. Allí tu padre alquiló un auto y empezó el verdadero viaje. Recorriste el fantástico Zoológico de San Diego, con sus animales exóticos, y después te llevaron a Disneylandia, donde pasaron dos días. El Castillo de la Bella Durmiente era tan hermoso que pensaste que estabas soñando; también disfrutaste viendo el desfile y Frontierland. Sin embargo, lo mejor de todo fue cuando el Ratón Mickey te pasó un brazo por el hombro. De Disneylandia fueron a Los Ángeles y recorrieron en ómnibus Hollywood y Beverly Hills. Allí te parece haber visto a dos estrellas de cine. Crees que una de ellas era Robert Mitchum, y estás bastante seguro de que la mujer era Elizabeth Taylor.  Antes de irse de Los Ángeles hicieron un viaje al norte y pasaron por la Base Brandemburgo de la Fuerza Aérea, y esta tarde estuviste mucho tiempo visitando el Museo del Espacio, los Cohetes y la Aeronáutica de Vanguardia.",
 		"img": "0",
 		"options":[
-			"opcion 1",
-			"opcion 2"
-		]
+			"Sigue en la casilla 2"
+		],
+		"audio": ""
 	},
 	{
-		"title": "Carta 1",
-		"description": "Descripcion carta 1",
-		"img": "1"
+		"title": "EL VIAJE",
+		"description": "En estos últimos cinco días, tú y tus padres han estado recorriendo California. Ahora, mientras descansas en la cama del motel del otro lado de la habitación donde duermen tu papá y tu mamá, te asaltan imágenes de todo tipo. El sábado volaste desde tu hogar en Cleveland, Ohio, hasta San Diego. Allí tu padre alquiló un auto y empezó el verdadero viaje. Recorriste el fantástico Zoológico de San Diego, con sus animales exóticos, y después te llevaron a Disneylandia, donde pasaron dos días. El Castillo de la Bella Durmiente era tan hermoso que pensaste que estabas soñando; también disfrutaste viendo el desfile y Frontierland. Sin embargo, lo mejor de todo fue cuando el Ratón Mickey te pasó un brazo por el hombro. De Disneylandia fueron a Los Ángeles y recorrieron en ómnibus Hollywood y Beverly Hills. Allí te parece haber visto a dos estrellas de cine. Crees que una de ellas era Robert Mitchum, y estás bastante seguro de que la mujer era Elizabeth Taylor.  Antes de irse de Los Ángeles hicieron un viaje al norte y pasaron por la Base Brandemburgo de la Fuerza Aérea, y esta tarde estuviste mucho tiempo visitando el Museo del Espacio, los Cohetes y la Aeronáutica de Vanguardia.",
+		"img": "1",
+		"options":[
+			"Navegue a la casilla 2"
+		],
+		"audio": "naranja"
+	},
+	{
+		"title": "VACACIONES",
+		"description": "Ese fue el lugar más fascinante de todos los que visitaste hasta ahora. Viste modelos a escala -los llaman maquetas- de satélites y todo tipo de cápsulas espaciales. Te atrajeron especialmente tres vehículos espaciales: uno del Proyecto Mercurio, el primer programa de vuelo espacial tripulado, otro de Géminis y uno de Apolo, cuya misión número XI llegó a la Luna. Y también viste más clases distintas de cohetes de las que creías que existían. Había mucha gente contigo, y mientras el guía del museo se paraba en cada exhibición para explicar algunos detalles específicos, las personas le hacían preguntas. El guía dijo que después de veinte años de actividad espacial, había muchos desperdicios flotando por encima de la Tierra, entonces un estudiante secundario preguntó bromeando si había algún astronauta. El guía hizo una pausa y lo miró, después señaló hacia una de las esquinas lejanas del enorme museo. Colgando del cielo raso había un vehículo espacial distinto de todos los que habías visto. Era casi redondo, excepto en un costado donde parecía haber sido cortado o achatado. En el extremo opuesto había una enorme protuberancia, que tenía aproximadamente el doble de tamaño que una cabeza humana. Ese es un Vostok, una maqueta de un satélite soviético -dijo el guía-, Los soviéticos lo niegan, pero nosotros creemos que uno de sus cosmonautas estaba realizando actividades extravehiculares, fuera de la cápsula, cuando se rompió el tubo de su equipo de supervivencia. Y se perdió.",
+		"img": "2",
+		"options":[
+			"Navegue la casilla 3"
+		],
+		"audio": "naranja"
+	},
+	{
+		"title": "EL MUSEO",
+		"description": "Se perdió en el espacio, pensaste. En el museo viste también algunos aviones viejos, un helicóptero artillado de los que usaron en Vietnam, todo tipo de trajes espaciales, algunas plantas que crecieron de semillas llevadas al espacio y un pequeño macaco de la India que viajó en una de las primeras misiones lunares. También pasaste cerca de dos habitaciones con puertas de gruesos cristales verdosos; una de ellas tenía un cartel que decía \"ÚNICAMENTE PERSONAL AUTORIZADO\" y la otra uno que decía \"NO PASAR\". Para cuando tú y tus padres se registraron en el motel que quedaba a dos cuadras del museo, estabas demasiado cansado para seguir visitando lugares. Sin embargo, ahora no puedes dormir y te das vuelta por todos lados en tu cama. Sigues pensando en los animales del zoológico, en los edificios y la gente de Disneylandia, y en los extraños equipos espaciales. Cuando finalmente empiezas a dormitar, no puedes descansar tranquilo sino que tienes sueños enloquecidos. En uno de ellos, estás en el zoológico montado en un león y cazando una avestruz. En otro, estás en lo alto del Castillo de la Bella Durmiente, viendo como lanzan un satélite. Pero el sueño que más te asusta es diferente. Estás en Disneylandia, y uno de los personajes de Disney se acerca a ti y te murmura al oído: -Vamos a hacer un viaje especial y secreto-. Lo sigues, y los dos se trepan a un aparato con forma de misil y permanecen acostados. El personaje - Pluto?- toca un interruptor.",
+		"img": "3",
+		"options":[
+			"Navegue a la casilla 4"
+		],
+		"audio": "naranja"
+	},
+	{
+		"title": "LA PERDIDA",
+		"description": "Inmediatamente oyes un terrible rugido y comienzas a oler humo y fuego. El aparato empieza a vibrar y antes de que te des cuenta, te han lanzado al espacio. El sueño es tan aterrador que te despierta, Te sientas en la cama y miras hacia la ventana del motel de pronto te acuerdas de algo. Tu cámara. Perdiste la camara. Te pones a pensar en eso. Vas a ir a despertar a tus padres pero entonces recuerdas que la dejaste en el museo espacial. La pusiste en el asiento de al lado cuando mirabas la película del primer lanzamiento del transbordador Columbia.  Tienes que ir a buscarla porque todavía tiene todas las fotos de las cosas fantásticas que viste hoy. Pero no puedes esperar a mañana, tu padre dijo que van a irse muy temprano, antes de que abran el museo. Te deslizas rápidamente fuera de la cama y te vistes. Hay que caminar sólo un par de cuadras para llegar al museo. Algún sereno puede dejarte pasar para buscar la cámara y regresarás sin despertar a tus padres. Cinco minutos después estás frente a la puerta del museo... Pero no hay ningún sereno. Golpeas la pesada puerta de vidrio. No hay respuesta. Vuelves a golpear. Sigue el silencio. ¡Pero tiene que haber alguien!  Tomas entre tus manos la pesada manija de la puerta y le das un sacudón... y haces un descubrimiento desconcertante. ¡Alguien se olvidó de cerrar con llave!",
+		"img": "4",
+		"options":[
+			"Navegue a la casilla 5"
+		],
+		"audio": "naranja"
+	},
+	{
+		"title": "EL INTRUSO",
+		"description": "Muy bien, piensas. Vas a poder escurrirte adentro, pasar corriendo por el escritorio de recepción y la tienda del museo y entrar a la sala de proyecciones que está saliendo del corredor principal. El interior del museo está pobremente iluminado con luces verdes. Pasas por el bebedero y doblas hacia el enorme salón del museo, moviéndote lentamente en la semioscuridad porque no quieres tropezar. Llegas al segundo recodo y estás cerca de la puerta de la sala de proyecciones, cuando súbitamente oyes un ruido. Te parece que es una puerta que se ha abierto. Y después oyes pasos.",
+		"img": "5",
+		"options":[
+			"Si crees haber atraído la atención de un guardián, Navegue a la casilla 24.",
+			"Si crees que es tu padre que te ha seguido, Navegue a la casilla 18.",
+			"Pero si el sonido puede significar algo diferente, Navegue a la casilla 12."
+		],
+		"audio": "naranja"
+	},
+	{
+		"title": "EL ARMA LASER",
+		"description": "En cuanto ves a esas dos enormes criaturas viniendo hacia ti, todo lo que quieres hacer es salir corriendo rápido. Horrorizado, te das vuelta y tratas de pararte, pero apenas lograr ponerte de rodillas cuando la araña te clava la mirada y escupe. Sientes en la muñeca una mancha de humedad, que de pronto empieza a quemarte. Y antes de que puedas limpiarte, se te duermen el brazo y el hombro. Te mueves, pero tus movimientos son pesados. Los dos siguen avanzando hacia ti, y cuando llegan a tu lado, el mono, que continúa mostrando mu dientes, extiende su otra pata delantera y te aprieta el cuello. Te levanta, y te ves forzado a ponerte de pie. Pero antes de que puedas moverte, el animal te toma de la mano. Y los tres se dirigen hacia el salón principal del museo. Llegan allí y van hacia el sector de los cohetes Cuando están cruzando el salón oyen un estruendo. Miras hacia la derecha y ves uno de los maniquíes vestido de soldado que recuerdas vagamente haber visto durante la recorrida. Éste está vestido con uniforme de combate y lleva un arma lanzarrayos. El guía te dijo que esa arma disparaba rayos láser y podía inutilizar un tanque porque destruía el sistema eléctrico. ",
+		"img": "6",
+		"options":[
+			"Si esta es tu oportunidad de escapar, Navegue a la casilla 27.",
+			"¿O vas a quedar atrapado entre las criaturas y el soldado? Navegue a la casilla 34",
+			"¿O creer que puede pasar otra cosa? Navegue a la casilla 7"
+		],
+		"audio": "blanco"
+	},
+	{
+		"title": "LA AYUDA",
+		"description": "Cuando te encuentras en las manos del mono aparecen con un gran estruendo dos ciborgs logran agarrar la pistola que habías visualizado antes y te liberan de las manos del mono, la araña aprovecha el ruido y se escabulle por una ventana. Aunque no los conozcas, parece que te salvaron y ya estás agradecido. Atónito por todo lo sucedido, te quedas paralizado, temblando, mientras los observas parecen personas, pero sabes que no lo son, son cyborgs ambos altos y caucásicos el primero que tiene escrito su nombre en el chaleco Neil Harbisson y de su cabeza sale una antena. La segunda tiene en el chaleco escrito Moon Ribas y te das cuenta en la mirada que tiene algo distinto. Ellos te miran con asombro como si fueras el primer humano que ven en sus vidas y te dicen ¿Estás bien? Tú aún sin poder mover el hombro dices que sí. Al parecer de dónde vienen nunca vieron a alguien como tú a pesar de que se parezcan y te preguntan ¿Qué sos?. Al no saber cómo describir las características de un humano y aún con el aturdimiento de la situación solo dices “soy una persona”. Ellos se presentan con los nombres de sus chalecos al parecer el cyborg con la antena puede escuchar los colores como vibraciones y también percibe los colores en infrarrojo y ultravioleta. El otro cyborg percibe los terremotos de todo el planeta con un chip en su brazo y que próximamente se actualizará para percibir los terremotos en la luna. Ellos vienen del futuro, al parecer encontraron una anomalía espacial en la línea de tiempo y están tratando de regularizarla, según comentaron en el futuro los humanos hacen actualizaciones constantes en su cuerpo para poder estar más unidos con la tierra, con sus percepciones, o simplemente por cuestiones prácticas. Los humanos como los conocemos ya no existen y al parecer los cyborgs sienten una especie de rechazo incómodo al ver personas tan distintas porque les da una sensación de “desnudez”. Después de todo lo que sucedió solo por ir a buscar la cámara al museo sientes que la realidad es tan disparatada que empiezas a cuestionarte si es real, luego escuchas una alarma se parece a la de tu celular y cuando abres los ojos, estás en tu cama, parece que todo fue un sueño, pero tienes la sensación de que no, no sabes que paso, pero cuando vez tu brazo, esta rasguñado...",
+		"img": "7",
+		"options":[
+			"FIN"
+		],
+		"audio": "verdeCloaca"
+	},
+	{
+		"title": "LA ARAÑA",
+		"description": "Con mucho cuidado, te incorporas como para poder espiar por sobre el borde del escaparate. La araña saltó a la parte superior y está trabajando frenéticamente, tejiendo una de sus telas. A juzgar por el tamaño del animal, piensas que su tela debe ser extraordinariamente fuerte. ¿Acaso lo suficientemente fuerte como para atraparte a ti? Este pensamiento te aterroriza y te agachas mucho, buscando entre los objetos en exhibición otro lugar donde esconderte. Ves la habitación con forma de luna, a la cual el guía llamó planetario, y que tiene una entrada pequeña. Es para que una persona entre, cierre la puerta, se acueste en un diván especial y mire una imitación del espacio, parecido a lo que vería un astronauta desde la luna. Según el guía, el diván gira sobre sí mismo y el \"cielo\" que está dentro del planetario también se mueve, con lo cual uno tiene realmente la sensación de estar en el espacio. No entraste ahí durante el recorrido, y no estás seguro de que te interese ver el universo desde un diván que gira sobre sí mismo, pero si pudieras entrar al planetario y cerrar la puerta, sería un lugar seguro para esconderse. Respiras hondo, miras una vez más hacia la tela de araña y te escabulles por el salón hacia el planetario. Abra la puerta y entra.",
+		"img": "8",
+		"options":[
+			"Navegue a la casilla 79."
+		],
+		"audio": "rojo"
+	},
+	{
+		"title": "EXPULCION",
+		"description": "Tú y el macaco gigante están flotando en el espacio dentro de la cápsula Geminis. No puedes imaginar qué es lo que hará el mono, pero estás seguro de que será algo inesperado. Trata de pensar en los otros controles que tienes a tu alcance, y en los que están más cerca del asiento del mono. Pero eso es una cosa que el guia no mencionó. Piensas en todas las posibilidades. dirección, velocidad, posición de nave, expulsión... ¡No! ¡Expulsión al espacio, no!",
+		"img": "9",
+		"options":[
+			"Navegue a la casilla 63."
+		],
+		"audio": "verdeCloaca"
+	},
+	{
+		"title": "EL LABORATORIO",
+		"description": "Te parece que estás en un laboratorio de investigaciones. Sacudes la cabeza y miras hacia una hilera de gas. Ves una criatura que parece un ratón, ¡solo es mucho más grande que un gato! Espías a una rana, ¡pero es tan grande y redonda como una pelota de voley! Crees haber visto una araña, ¡pero es mucho más grande que la más grande de las tarántulas que hayas visto nunca en una foto!. Tratas de entender. Y poco a poco comprendes lo que ocurrió. Sabes que en algunas de sus misiones los astronautas llevaron plantas y animales vivos del espacio para ver qué les pasaría en un medio ambiente extraño. Sin embargo, nunca leíste nada sobre estas criaturas. Pero sospechas que los experimentos han producido resultados muy inesperados. Empiezas a incorporarte cuando oyes que una jaula se abre en el extremo más lejano de la habitación. Te das vuelta rápidamente y ves saliendo de su jaula una criatura de casi tu tamaño. Tragas saliva con dificultad. Te acuerdas del pequeño macaco que estaba en la jaula de exhibición del museo te das cuenta de que este es idéntico, sólo que mucho más grande. Te atragantas cuando de pronto comprendes lo que ha ocurrido. El medio ambiente espacial produjo alteraciones terribles en el pequeño macaco y éste es su descendiente, ¡su enorme descendiente!",
+		"img": "10",
+		"options":[
+			"Si crees que hay motivos para preocuparse, Navegue a la casilla 19.",
+			"Si piensas que es mejor quedarte inmóvil Navegue a la casilla 31."
+		],
+		"audio": "indigo"
+	},
+	{
+		"title": "EL FALLO",
+		"description": "No estás seguro de que fue lo que falló, pero la nave espacial está temblando violentamente. Y entonces recuerdan, este no es un verdadero cohete espacial. Es una maqueta... una cosa que tiene el aspecto del aparato verdadero y que actúa como él. Pero que es mucho más chica, y no tiene todos los elementos del cohete auténtico Tiene controles, instrumentos y asientos. Pero no tiene una cosa. una cosa muy importante. ¡No tiene un paracaídas! Tragas saliva con dificultad. No hay paracaídas... ni amortiguador de aterrizaje. Ya no importa saber si estás volando sobre agua o sobre tierra porque estás a punto de estrellarte. Pero no te estrellas, sino que caes al agua. Y en unos segundos el artefacto espacial se hunde en el fondo del lago Michigan para no volver a salir jamás a la superficie...",
+		"img": "11",
+		"options":[
+			"FIN"
+		],
+		"audio": "verdeCloaca"
+	},
+	{
+		"title": "LA AMENAZA",
+		"description": "Y ves venir hacia ti una figura vaga que no hace ningún esfuerzo por caminar suavemente. Bien, piensas que debe ser el sereno. Simplemente vas a explicarle por qué estás tan tarde en el museo, le pedirás que te ayude a buscar tu cámara y volverás corriendo al motel. Pero cuando se aproxima, te das cuenta de que no es el sereno. Y tampoco es un guardia. Es demasiado alto, realmente alto cuando está a unos cinco metros de distancia, ves que es el hombre más alto que has visto en tu vida. Ca si toca con la cabeza el cielo raso del pasillo y calculas que mide por lo menos tres metros. Usa un casco de astronauta y un traje espacial, pero hay algo muy peculiar en el color de su traje. Los que viste exhibidos eran todos blancos, excepto uno que era plateado, pero que no era de verdad, sino que lo habían usado en una película. El traje espacial de este gigantesco ser, en cambio, es naranja brillante.",
+		"img": "12",
+		"options":[
+			"¿Se trata de un robot? Navegue a la casilla 51. ",
+			"¿Es una clase especial de astronauta? Navegue a la casilla 53."
+		],
+		"audio": "amarillo"
+	},
+	{
+		"title": "CORRE",
+		"description": "Te horrorizas al ver a dos criaturas dirigiéndose hacia ti. Además, siempre has pensado que las tarántulas son enemigos mortales tanto de los animales como de la gente. Pero el mono y la araña parecen llevarse muy bien. Todo es demasiado extraño.Te pones de rodillas con una mano contra la puerta y te incorporas lentamente. Se detienen un momento. Pones una mano atrás, como si tuvieras algo que arrojar. El mono gigante comienza a saltar, y la araña se lanza hacia la izquierda y después hacia la derecha. Te da la impresión de que los dos van a huir si corres hacia ellos. Te preparas, tomas aliento, lanzas un grito de guerra y te zambulles hacia adelante. La araña salta hacia arriba... tan alto que pasas corriendo por debajo de ella el mono se queda en cuatro patas y se escurre hacia un costado. Y crees que te has salvado de ésta. Pero cuando ya te empiezas a sentir aliviado, oyes que algo golpea el suelo como una palmada miras hacia atrás. Ves que la araña se ha extendido y es mucho más grande que antes. Ahora es enorme, y sus ojos saltones se han vuelto de color rojo fuego. Y el cuerpo comienza a cambiar de color primero marrón, después azul. después amarillo brillante los terribles ojos miran un momento de acá para allá, y después se quedan fijos en los tuyos.",
+		"img": "13",
+		"options":[
+			"Navegue a la casilla 93"
+		],
+		"audio": "naranjaFuerte"
+	},
+	{
+		"title": "CHISPAS",
+		"description": "El robot vestido con traje espacial se detiene a unos tres metros de donde estás y te señala con un dedo luminoso. Empiezan a salir chispas de ese dedo, y las chispas se hacen cada vez más largas. Recuerdas haber visto algunas de las complejas herramientas electrónicas que los astronautas usan para trabajar en sus vehículos espaciales esta podría ser una de ellas, pero parece más bien un dispositivo que podría usarse para soldar. Las chispas se convierten en largos dardos de fuego, y de pronto uno de ellos te golpea el dedo. Lo primero que piensas es que el robot, o lo que sea que está dentro del traje espacial, quiere quemarte. ",
+		"img": "14",
+		"options":[
+			"Navegue a la casilla 68"
+		],
+		"audio": "azul"
+	},
+	{
+		"title": "EL MONO",
+		"description": "Te quedas tan quieto como puedes, sin siquiera animarte a respirar. Es obvio que el mono ha estado con seres humanos, pero no tienes idea de cómo va a comportarse. Llega hasta dónde estás parado, se detiene, te mira, y después lentamente camina alrededor de ti, haciendo gestos con su pata delantera izquierda. Tú sigues sin moverte. Cuando llega a tu costado derecho, te toca suavemente la mano. Tú quieres retirarla, pero tienes miedo de que cualquier movimiento brusco pueda provocarlo.",
+		"img": "15",
+		"options":[
+			"Navegue a la casilla 76"
+		],
+		"audio": "indigo"
+	},
+	{
+		"title": "PROYECTO MERCURIO",
+		"description": "Tal vez si empujas la puerta que dice NO PASAR lograrás abrirla, pero no tienes tiempo de averiguarlo. Una mirada al robot que se aproxima te hace saber que no puedes quedarte ahí más tiempo. Das media vuelta y te lanzas por el corredor hacia el vasto ámbito del salón principal del museo. Te detienes un momento hasta que tus ojos se acostumbran a la casi oscuridad que te rodea y después miras a tu izquierda. Lo que se es el vehículo espacial tripulado del Proyecto Mercurio, con mi pequeño asiento único, su espacio reducido y -si- la parte abierta en la cabina donde estaba el vidrio protector. Te decides rápidamente y corres hacia allí, te metes por la pequeña abertura, te retuerces y te dejas caer en la silla del piloto. Mientras lo haces, te preguntas cómo un hombre del tamaño de John Glenn puede haber entrado en un lugar tan reducido.  Te deslizas hacia abajo, porque sabes que el robot sigue avanzando pesadamente en tu dirección. Colocas los brazos sobre los apoyabrazos... Y sin ningún aviso, aparecen bandas de metal que te sujetan al salón. ¡Ahora estás esposado a los apoyabrazos!  Empiezas a gritar, pero te contienes porque no quieres que el robot se dé cuenta de dónde estás escondido. Tanteas en la oscuridad esperando encontrar la palanca capaz de liberarte ¡tiene que haber una!",
+		"img": "16",
+		"options":[
+			"Si piensas que la palanca que encontraste es la correcta, Navegue a la casilla 23",
+			"Si dudas de la palanca, Navegue a la casilla 40"
+		],
+		"audio": "lila"
+	},
+	{
+		"title": "EL RUIDO",
+		"description": "En la puerta dice NO PASAR, pero no te importa. De todos modos, probablemente no es más que una oficina, colocas al hombro contra ella y empujas con todas tus fuerzas, cede más fácilmente de lo que habías imaginado... y con el ímpetu que llevas te caes al suelo del otro lado. Inmediatamente la puerta se cierra y oyes un click que atribuyen simplemente a un cerrojo flojo. Pero antes de que tengas tiempo de pensar en el ruido, comienzas a oír otro. otras muy diferentes. Primero te parece que oyes quejidos y el parloteo de un bebé, después creen distinguir un sonido sibilante. Y sabes que uno de esos ruidos es el de una rana y piensas que distingues el chillido de un ratón, a pesar de que tiene un sonido más profundo que el de ningún chillido de ratón que hayas oído hasta ahora. Pero lo más importante de todo es que oyes movimientos suaves y como acolchonados. En torno tuyo hay un desvaído resplandor verde, y tienen que ajustar los ojos para poder ver con estas luces mortecinas. Echa un vistazo y descubres que estás en un tipo especial de habitación, muy parecida a las que viste en tu ciudad en un hotel para mascotas donde cuidaban pequeños animales. ¿Animales?",
+		"img": "17",
+		"options":[
+			"Si crees que estás en un laboratorio de investigaciones, Navegue a la casilla 10",
+			"Si piensas que es un consultorio veterinario conectado al museo, Navegue a la casilla 28"
+		],
+		"audio": "lila"
+	},
+	{
+		"title": "EL GUARDIA",
+		"description": "El sonido que produce la puerta al abrirse tiene un eco especial, y estás seguro de que se trata de la que usaste al entrar al museo. Piensas que puede ser tu padre que te oyó y se levantó para ver adonde ibas. Te das vuelta, dudas por un momento y después decides que más vale decirle la verdad. Pero cuando aparece la figura, te das cuenta de que no es tu padre. Es uno de los guardias. Sabes que va a atraparte, tal vez a acusarte de entrar sin permiso y probablemente llamará a la policía. Y no quieres responder a un interrogatorio de la policía.",
+		"img": "18",
+		"options":[
+			"Navegue a la casilla 99"
+		],
+		"audio": "verde"
+	},
+	{
+		"title": "LAS JAULAS",
+		"description": "Las perspectivas de lo que pueden ser esas criaturas son todas muy atemorizadoras. Si son mucho más grandes de lo que deberían ser, también podrían lastimarte; tal vez incluso matarte. Pensar en eso te asusta más todavía. No quieres enfrentarte al robot, pero tampoco quieres que te ataquen estos seres terribles. Mientras estás aún tirado en el suelo, el macaco gigante cierra de un golpe la puerta de su jaula, se bambolea de un lado a otro y sacude un poco la cabeza. Sus labios se abren dibujando una mueca, y desnuda sus dientes blancos y de aspecto malévolo. Por un momento piensas que viene a buscarte, pero no... se escapa hacia las otras jaulas y abre todas las puertas que estaban cerradas con barras. La gigantesca rana se acerca al borde, croa una vez y después da un salto que le hace cruzar media habitación y aterrizar a unos centímetros de tu cabeza. El ratón sale despacio, olfatea y chilla dos veces. Y la araña se arrastra por el suelo de su jaula, construye lo que parece ser una pequeña tela de araña, y se queda pegada al piso. Cuando te mira, ves que sus ojos saltones tienen un resplandor naranja. Y una vez que todos están libres, el enorme mono se da vuelta hacia ti.",
+		"img": "19",
+		"options":[
+			"Navegue a la casilla 32."
+		],
+		"audio": "indigo"
+	},
+	{
+		"title": "EL SIMULADOR",
+		"description": "Supones que los pequeños haces deben cumplir algún propósito en los mecanismos del viaje espacial, pero algo no funciona bien. No deberían parecerse tanto al fuego y no deberían caer tan cerca de la silla. Y no deberían tocarte. ¡Pero lo hacen! Comienzan a caer encima tuyo como si fueran pequeñas bolitas de ácido candente. Uno te da en el brazo y otro en la mejilla. Y cuando das vuelta la cara, otro te quema la oreja. Vuelves a golpear frenéticamente el tablero de control. Ahora aprietas un interruptor de gran tamaño y, de repente, ya no estás en la silla. Una terrible fuerza magnética te lanza hacia adelante. Das contra la pantalla, pero no sientes el golpe, sino que la pantalla te absorbe. Y en un abrir y cerrar de ojos ya no estás observando el simulador, sino que eres parte de él. Y sabes, mientras comienzas a moverte junto con la pantalla, que estás en una agrupación de estrellas magnéticas y que nunca podrás salir...",
+		"img": "20",
+		"options":[
+			"FIN"
+		],
+		"audio": "naranjaFuerte"
+	},
+	{
+		"title": "LA ESCALERA",
+		"description": "Pero ahora, sin embargo, no te preocupas por los cohetes. ¡Todo lo que quieres es bajar y salir de este lugar! Miran ansiosamente a tu alrededor y ven una escalera de soga, del tipo que usan algunos pilotos de helicóptero cuando quieren dejar bajar o hacer subir a un pasajero sin tener que aterrizar. Agarras el primer peldaño, mantienes abierta la puerta y dejas caer la escala. Sin esperar a averiguar dónde está el robot, bajas rápidamente, te diriges hacia la izquierda y ves una ventana baja. No te importa si está cerrada con llave o no; corres hacia ella, te sacas un zapato y golpeas uno de los cristales, Inmediatamente empieza a sonar una alarma aterradora, ¡pero se rompe! Eso es todo lo que importa. Sales por la abertura, y una vez afuera corres tan rápidamente como puedas hacia la calle que lleva a tu motel. Y no te detienes hasta que no estás en cama respirando dificultosamente. Puedes esperar a mañana para ir a buscar la cámara. No quieres perderla, pero prefieres eso a que te atrape el robot. ",
+		"img": "21",
+		"options":[
+			"FIN"
+		],
+		"audio": "marron"
+	},
+	{
+		"title": "EL ALUNIZADOR",
+		"description": "Y eso es extraño. Los monos no pueden planear y las arañas tampoco, pero estás seguro de que, o no hacerlo, estos dos te han traído a este lugar con un plan deliberado. No tienes la menor intención de convertirte en una parte de su proyecto. Vas a escaparte, pero tienes que hacerlo bien. Miras la maqueta del cohete y empiezas a temblar. Tu cuerpo se sacude y tu mano lentamente se desprende de la garra del mono, que parece no preocuparse, y es justamente lo que quieres. Comienzas a inclinarte hacia adelante, como si quisieras ver de más cerca la cápsula tripulada. La araña se corre a un costado y el mono da vuelta, comienza a parlotear y por el momento al menos, te ignora. Miras hacia la izquierda. Allí, justo detrás del escaparate con pequeñas partículas lunares, ves el alunizador: la maqueta del vehículo utilizado para descender en la luna. Tiene una escalera baja para que los turistas puedan subirse y mirar adentro. Y tiene una puerta. Eso es lo que recuerdas... tiene una puerta, pero justo cuando te preparas para una carrera súbita, la araña salta hacia arriba y aterriza sobre tu cabeza.",
+		"img": "22",
+		"options":[
+			"Navegue a la casilla  82."
+		],
+		"audio": "negro"
+	},
+	{
+		"title": "LA PALANCA",
+		"description": "A tientas, tus dedos tocan algo redondo y largo. Tiene que ser algún tipo de palanca. Las tomas en la mano, la nueves y tiras de ella con toda la fuerza de que es capaz, considerando tu posición. Pero no ocurre nada. Tratas de hacerla girar, pero no gira, vuelves a darle un tirón fuerte. Pero no se mueve. Te vuelves frenético. Puedes haber escapado por un momento del robot, pero sabes que continúa buscándote; y ahora eres una víctima cautiva. Tuerces la palanca hacia la izquierda, y al hacerlo tu pulgar se desliza hacia la punta y ahí encuentras un botón muy grande. ¡Por supuesto!, generalmente las palancas tienen un botón de seguridad. Lo oprimes inmediatamente, tratando de mover la palanca al mismo tiempo. Esta vez se desliza hacia adelante, y súbitamente la cápsula espacial empieza a girar sobre sí misma. ¡Eso no es lo que tú quieres! No te preocupa saber cómo habrán sido las cosas con los astronautas... todo lo que quieres es escapar. Te esfuerzas y empujas la palanca en dirección opuesta. Abruptamente, la cápsula deja de dar vueltas y empieza a saltar como si estuviera colocada sobre resortes movidos por un motor. Te da la impresión de que te van a zarandear hasta que mueras y cada vez que salta, te golpeas contra el apoyacabeza. Ya no te importa el robot. ¡empiezas a gritar!",
+		"img": "23",
+		"options":[
+			"Navegue a la casilla  102."
+		],
+		"audio": "lila"
+	},
+	{
+		"title": "EL ROBOT?",
+		"description": "Te quedas totalmente quieto, sin animarte siquiera a respirar. Los pasos son lentos, demasiado lentos para ser los de un guardián. Y no ves ninguna luz... si fuera un guardián seguramente tendría una linterna. Tragas con dificultad y te das vuelta despacio hacia la izquierda. Hay muy poca luz, pero no puedes creer lo que distinguen tus ojos. Uno de los trajes espaciales que viste en la exhibición durante la visita ya no está en su vitrina. El ruido que oíste -y que atribuiste a una puerta que se abría- era el de una de las divisiones de la vitrina. Vuelves a tragar con dificultad. ¡No puede ser! ¡Un traje espacial no puede moverse solo! Pero así es, y mientras sigues mirándolo, el traje da una vuelta súbita y se dirige directamente hacia ti. Te quedas mirando fijo hacia la gruesa máscara verde que cubre la cara del astronauta. Y ves que tiene dos luces color rojo brillante donde deberían estar los ojos. Recuerdas que algunos de los trajes tenían maniquíes como los de las tiendas, pero en ninguno había un ser humano. A lo mejor se trata de un robot... un robot vestido con ropa espacial. Pero sea lo sea, parece estar viniendo directamente hacia ti, y estás seguro de una cosa: el encuentro no va a ser amistoso. Se detiene a tres metros de donde estás parado levanta el brazo derecho y te señala con el dedo. cuando lo hace la punta del dedo comienza a brillar.",
+		"img": "24",
+		"options":[
+			"Navegue a la casilla 14."
+		],
+		"audio": "azul"
+	},
+	{
+		"title": "LA CÁPSULA ESPACIAl",
+		"description": "Sino que la cápsula espacial comienza a rotar muy lentamente hacia la izquierda, y no se detiene hasta 180 grados. Ahora estás mirando el suelo del museo en lugar del cielo raso. Sin embargo, no es un suelo común... ya que estás enfrentado a una serie de barrotes que se entrecruzan como en una parrilla. No puedes entender para qué es eso, pero por el momento no tienes tiempo de hacerte preguntas porque oyes que el robot se acerca con sus pesados pies que resuenan por todo el ámbito del museo. Pero por ahora no puede verte. Tuerces las manos y descubres que con la cápsula espacial invertida, las bandas de metal se han soltado por su cuenta y estás libre de dejar el asiento de astronauta. Sales muy cautelosamente por el parabrisas, que ahora está cabeza abajo, y te dejas caer sobre la parrilla. ¡Y entonces comienzas a gritar!",
+		"img": "25",
+		"options":[
+			"Navegue a la casilla 83."
+		],
+		"audio": "marron"
+	},
+	{
+		"title": "EL COHETE",
+		"description": "Te parece que el cohete se llamaba Víbora o quizás Aguijón, pero eso no importa ahora. Recuerdas que según la descripción, podía dejar fuera de combate a un tanque blindado. Algo tan poderoso podría destruir la mayor parte de las cosas que se exhiben en el museo. No sabes qué es lo que se propone el robot-soldado pero no deseas averiguarlo. Das un vistazo rápido a la izquierda, pero ahí está la pared. Das media vuelta a la derecha y ves un pequeño cuarto que, según dijo el guía, es un dispositivo de ensayo para la órbita lunar. No recuerdas qué más dijo al respecto, pero tiene una puerta. Si puedes llegar hasta ella, tal vez el robot no te siga. Lo observas hasta que te parece que tiene la atención fija en el lado opuesto, giras rápidamente y te escurres hacia la puerta. Se abre fácilmente, te lanzas hacia adentro y vuelves a cerrar la puerta. Casi instantáneamente te das cuenta de que algo se está moviendo dentro del dispositivo. ¡Y que tú también te mueves!",
+		"img": "26",
+		"options":[
+			"Navegue a la casilla 111."
+		],
+		"audio": "verde"
+	},
+	{
+		"title": "EL SOLDADO",
+		"description": "Esta podría ser tu oportunidad de escapar, pero el maniquí-soldado ya no es un maniquí. Se empezó a mover y se mueve lentamente en tu dirección. Ves que el soldado apunta con su arma que lanza rayos láser y sabes que está a punto de producirse algo muy extraño. El mono comienza a parlotear mientras muestra los dientes. La araña se estira apoyándose en sus cuatro patas traseras mientras rasguña el aire con las delanteras. El soldado toma puntería y dispara. El mono cae de panza pero la araña se escurre hacia un costado y se refugia detrás de la columna que sostiene un mostrador de exhibiciones. El soldado apunta una vez más. Y esta vez el arma está dirigida hacia ti. Miras hacia donde está el mono… y descubres que se está desintegrando y empieza a desaparecer.",
+		"img": "27",
+		"options":[
+			"¿Has escapado a una desgracia solo para caer en otra? Navegue a la casilla 58",
+			"¿O puedes librarte del soldado? Navegue a la casilla 44."
+		],
+		"audio": "blanco"
+	},
+	{
+		"title": "LA LUZ",
+		"description": "Sin embargo, el olor te dice que esto es algo más que una simple pensión para animales domésticos. Crees que es un lugar al que traen animales enfermos, solo que ¿por qué habría de traerlos a este museo? Te quedas pensando, ¡y de pronto te das cuenta! No es que tengan animales enfermos aquí, sino que éstas son bestias que los científicos utilizan en sus experimentos. Tus ojos se acostumbran a la penumbra y echas un vistazo a tu alrededor. Tu primera impresión parece ser correcta. Ves pequeñas sillas, pequeños catres y dispositivos especiales para sujetar que están a lo largo de las paredes y tienen cables electrónicos y alambres. Pero sea lo que sea, este no es el camino para salir del museo o para ir al salón de proyecciones de modo que comienzas a darte vuelta, pero de pronto cae sobre ti una luz potente y quedas bañado en su resplandor. Guiñas los ojos, los cubres y después tratas de mirar cubriéndote la vista. En un escritorio en el que no habías reparado antes hay un hombre calvo con anteojos gruesos. Tiene papeles desparramados frente a él pero ahora te está mirando. Hay algo siniestro en la manera en que te observa.",
+		"img": "28",
+		"options":[
+			"Navegue a la casilla 97."
+		],
+		"audio": "lila"
+	},
+	{
+		"title": "EL DESPEGUE",
+		"description": "Te atragantas y tratas de gritar. Pero el parabrisas se cierra con un chasquido y quedas cautivo dentro de la nave espacial. Oyes otro zumbido y en unos segundos sientes que cambias de posición. Se activa la base de lanzamiento y la maqueta se eleva, como si fuera un cohete de verdad, hasta quedar en posición de dispararse. Y de pronto te das cuenta de lo que va a pasar. ¡Este es un cohete real y el mono activó los sistemas! Y en unos segundos… ¡No! ¡No, no, no! Pero no puedes hacer nada. Levantas la vista mientras el cohete se pone en posición vertical y ves que se va abriendo un agujero en el techo del museo. Tratas de librarte de tus ataduras, pero el adormecimiento que te produjo el veneno de la araña te impide moverte.",
+		"img": "29",
+		"options":[
+			"¿Va a ser disparado o no? Navegue a la casilla 50.",
+			"Si vas a lograr escapar, tienes que hacerlo pronto. Navegue a la casilla 36."
+		],
+		"audio": "negro"
+	},
+	{
+		"title": "VOSTOK",
+		"description": "El robot todavía te persigue, pero te das cuenta de que con ese traje espacial que usa no puede correr tan rápido como tú. Además, como es tan grande, no puede meterse en lugares muy pequeños. Sin perder un segundo, te das vuelta y corres otra vez hacia el pasillo principal del museo, pensando solamente en encontrar un lugar donde esconderte. Llegas al salón principal, echas una ojeada y te precipitas hacia una escalera que hay en un extremo y trepas por ella hasta la parte de arriba. Allí hay una pequeña puerta, la abres y, sin fijarte dónde estás, la cruzas y la cierras tras de ti. Solo entonces respiras profundamente y miras a tu alrededor. Y empiezas a temblar. Te das cuenta de que has cometido un error. Has subido a bordo de la maqueta de la nave espacial rusa… la copia de la Vostok. Miras y te das cuenta de que este modelo a escala natural tiene todos los instrumentos que podrían haber usado los rusos y que las indicaciones están en su idioma. Bueno, al menos aquel robot no puede encontrarte. Te puedes quedar aquí hasta que se vaya a algún otro lado y después salir y recuperar tu cámara. Piensas que  eso no llevará mucho tiempo.",
+		"img": "30",
+		"options":[
+			"Navegue a la casilla. 92"
+		],
+		"audio": "gris"
+	},
+	{
+		"title": "MONO LIBERADO",
+		"description": "Estás tan asustado y fascinado a la vez, que no te atreves a moverte. No quieres atraer la atención de esa extraña criatura. Una vez que el gigantesco mono está fuera de su jaula, pone sus patas delanteras sobre las caderas como lo haría una persona que está tratando de decidir qué hacer a continuación. Mira hacia las otras jaulas y después abre los labios y emite un gruñido suave. Luego va hacia la jaula donde está la araña, se detiene, toca al animal y después salta hacia atrás cuando la araña se lanza hacia los alambres de la jaula. El mono se rasca las axilas, empieza a dar saltitos y después se da vuelta y deja escapar un suspiro lúgubre.",
+		"img": "31",
+		"options":[
+			"Navegue a la casilla. 81"
+		],
+		"audio": "indigo"
+	},
+	{
+		"title": "LABORATORIO",
+		"description": "Estás tirado en el suelo del laboratorio y este enorme mono te está mirando fijamente. Y la gigantesca araña se vuelve hacia ti. Y el desmesurado ratón también te mira, con sus ojos brillando como cuentas de color verde. Estás temblando como una hoja y empiezas a mover lentamente los brazos. No quieres quedarte aquí ni un minuto más pero no quieres hacer ningún movimiento  brusco que pueda sorprenderlos y hacer que te ataquen. Te pones de pie con mucho cuidado, esperas hasta estar seguro de que conservas el equilibrio y después das media vuelta y te lanzas hacia la puerta. Pero no se abre. ¡Estás atrapado! Con un pequeño grito te vuelves hacia atrás, te cuadras de hombros y cargas otra vez contra la puerta. Debes ser más fuerte de lo que piensas porque esta vez la puerta se abre de golpe con tanta violencia que sus bisagras se doblan. No podrá cerrarse de nuevo. Pero no te importa…¡Saliste de esa habitación!",
+		"img": "32",
+		"options":[
+			"Si crees estar a salvo en otra habitación, Navegue a la casilla 46.",
+			"Si piensas que salir del museo es lo más importante, Navegue a la casilla 39."
+		],
+		"audio": "naranjaFuerte"
+	},
+	{
+		"title": "PICAPORTE",
+		"description": "Sin embargo, el robot está todavía a tres o cuatro metros de distancia y sabes que puedes moverte mucho más rápido que él, con sus pasos rígidos. Entonces recuerdas esas dos puertas que viste cuando visitaste el lugar, las que decían “NO PASAR” y “ÚNICAMENTE PERSONAL AUTORIZADO”. Giras hacia la izquierda y corres por el corredor estrecho y alfombrado que conduce a la primera. Cuando llegas allí, tratas de agarrar el picaporte... pero descubres que no tiene.",
+		"img": "33",
+		"options":[
+			"Si crees que la puerta no tiene pasada la llave, Navegue a la casilla. 17.",
+			"Si consideras que es más inteligente correr en otra dirección, Navegue a la casilla 16."
+		],
+		"audio": "lila"
+	},
+	{
+		"title": "EVAPORACION",
+		"description": "No sabes qué es lo que intenta hacer el maniquí-soldado pero sí sabes que estás atrapado entre él y los animales. Lo miras y después miras al mono y estás a punto de dejarte caer al suelo, esperando escapar así de los dos. Pero en ese momento, la araña súbitamente suelta la garra del mono y se lanza hacia adelante. Cuando está a un metro del soldado, se levanta en sus patas traseras, ondea sus largas antenas y vuelve a escupir. ¡Y el soldado con el arma láser se evapora súbita y completamente!",
+		"img": "34",
+		"options":[
+			"Navegue a la casilla 104"
+		],
+		"audio": "negro"
+	},
+	{
+		"title": "LOS CONTROLES",
+		"description": "Estás aterrado, pero sabes que si te dejas dominar por el pánico nunca volverás a tu hogar. De modo que respiras hondo y tratas de recordar lo que has leído sobre los primeros viajes espaciales. Te acuerdas de que los astronautas no aterrizaban sino que se lanzaban sobre el océano. Y para eso tenían enormes paracaídas enganchados a la nave. Tragando con dificultad y tratando de ignorar el loco parloteo del enorme mono, pasas revista al tablero de control. Allí ves instrumentos que indican distintos tipos de maniobra para mantener la nave espacial en su órbita, otros indican la altitud y la velocidad y hay un grupo de controles que están marcados como SISTEMAS DE REINGRESO. Reingreso. Eso es lo que tienes que considerar. Te esfuerzas por leer el rótulo de cada uno de los controles. COHETES RETROPROPULSORES, DESPLIEGUE DE PARACAÍDAS, POSICIÓN DE LA NAVE PARA PROTECCIÓN TÉRMICA y POSICIÓN DE REINGRESO. ¡Pero no sabes en qué orden deben usarse!",
+		"img": "35",
+		"options":[
+			"Navegue a la casilla. 74."
+		],
+		"audio": "verdeCloaca"
+	},
+	{
+		"title": "EL BOTON",
+		"description": "El cohete queda en posición vertical y tú estás acostado de espaldas, con las piernas asomando por el borde del asiento. ¡Pero no quieres ser lanzado al espacio! Comienzas a tantear como enloquecido, tratando de encontrar los controles de tu silla. Y afortunadamente los hallas. Tus dedos tocan un gran botón, y aunque no sabes para qué sirve, lo oprimes con todas tus fuerzas. El cohete empieza a moverse con un violento movimiento oscilatorio. Se bambolea para atrás, para adelante, a la izquierda, a la derecha. El mono empieza a gritar. Agita los brazos hacia atrás y hacia adelante y su larga cola se ondea como una soga agitada por el viento y accidentalmente golpea con ella otro interruptor. El parabrisas sale disparado y cae al suelo, y el mono es lanzado dando vueltas sobre sí mismo a través del salón. Las ataduras que te retienen se sueltan. Y estás liberado, ¡pero no estás libre! Caes justo al lado de la tarántula, que está muy agitada. Salta con sus patas extendidas y cuando cae, aterriza sobre tu pecho. Su extraña cabeza se inclina hacia ti, su horrible boca se abre y esos ojos saltones y resplandecientes se fijan en el lugar exacto…",
+		"img": "36",
+		"options":[
+			"FIN"
+		],
+		"audio": "negro"
+	},
+	{
+		"title": "BJORK",
+		"description": "En ese momento donde te das cuenta de que podría ser tu final, sientes que el tiempo se detiene y ves tu vida pasar enfrente de tus ojos, ahí es donde te acuerdas de tu amor platónico Bjork es una cantante, compositora, multiinstrumentista, actriz, escritora, DJ y productora islandesa, la cual es conocida por hacer música experimental y vanguardista, te enamoraste de ella en una canción y desde ahí nunca salió de tu cabeza su gran conexión con la naturaleza y su amor por las Artes electrónicas te han flechado de por vida, con ella aprendiste mucho sobre los fractales y ahora cada vez que ves un fractal en cualquier lado te acuerdas de ella , cada vez que ves un copo de nieve o las copas de los árboles, pareciera que está en todos lados y te recuerda que todos somos uno en la naturaleza. Todos esos sentimientos generados por el recuerdo de Bjork parecen desvanecerse al salir de tu estado de shock el tiempo vuelve a ser como antes, rápido y te das cuenta que es hora de actuar.",
+		"img": "37",
+		"options":[
+			"Navegue a la casilla 38"
+		],
+		"audio": ""
+	},
+	{
+		"title": "EL MANIQUI",
+		"description": "Empiezas a pensar que has escapado de los dos animales monstruosos sólo para ser vaporizado por el láser de un maniquí-soldado. Miras frenéticamente a izquierda y derecha, buscando un camino para evitar al soldado y súbitamente oyes un leve rasguñar cerca tuyo, y miras hacia abajo. La araña asomó por el costado de la columna donde se ocultaba y ahora puede ver al soldado. ¡Y es como si el animal pudiera razonar! Se coloca en posición de disparar, se agazapa... ¡Y escupe sobre el maniquí!",
+		"img": "38",
+		"options":[
+			"Navegue a la casilla 73"
+		],
+		"audio": "blanco"
+	},
+	{
+		"title": "AUCH",
+		"description": "Solo puedes pensar en salir del museo. Dudas tan solo un momento antes de girar abruptamente a la izquierda y lanzarte hacia la puerta principal. Si pudiste abrir de un empujón la puerta del laboratorio, ¿qué puede impedirte abrir también la grande? Llegas hasta la puerta, te preparas y te abalanzas sobre ella. Pero a diferencia de la del cuarto donde estaban los animales, esta es mucho más pesada. Das un respingo por el dolor que te produce en el hombro y caes hacia atrás, golpeándote el codo contra el piso de mosaicos. Ahora te duele todo el brazo. Empiezas a levantarte pero miras en dirección al laboratorio del que acabas de escapar. ¡Y lo que ves no te gusta nada! El mono y la araña están saliendo de allí uno al lado del otro. El mono ha tomado agua con una de las garras delanteras una de las antenas de la araña. ¡Y ambos vienen hacia ti!",
+		"img": "39",
+		"options":[
+			"Crees que puedes escapar corriendo? Navegue a la casilla. 6.",
+			"O crees que puedes hacerlos correr a ellos? Navegue a la casilla 13."
+		],
+		"audio": "naranjaFuerte"
+	},
+	{
+		"title": "PALANCA",
+		"description": "Colocas tu mano sobre la palanca que está ubicada en el extremo del apoyabrazos izquierdo. Comienzas a hacerla girar hacia la derecha, pero luego te contienes. Tal vez así no lograrás librarte. ¡Pero tienes que hacer algo!",
+		"img": "40",
+		"options":[
+			"Navegue a la casilla 91."
+		],
+		"audio": "marron"
+	},
+	{
+		"title": "150KM/H",
+		"description": "Comienzas a incorporarte muy cautelosamente hasta que te quedas parado en un extremo del escaparate. Y te sientes aliviado. Tal como pensaste, simplemente removiste las cosas que estaban en exhibición y una de las manos se ha caído al costado. Espías por la esquina del escaparate y ves que la araña no está mirando en tu dirección. Bien. Echas una ojeada a ambos lados, alcanzas a ver una enorme columna, y  después de dar un vistazo a la araña te precipitas hacia esa columna. Recuerdas que el guía dijo durante la visita guiada que era una especie de de dispositivo de ensayo para determinar la resistencia al impacto de los astronautas. Después había abierto la puertita, y les había mostrado un tubo vertical y hueco, con un asiento acolchado en la parte de abajo. El astronauta que va a realizar la prueba se sienta y queda atado en la posición adecuada. Después la silla es levantada lentamente por un elevador eléctrico, que luego la suelta de golpe. A medida que cae, un motorcito acelera la velocidad del asiento y para cuando alcanza la parte inferior de la columna, cuya altura llega hasta el cielo raso del museo, el pasajero viaja a una velocidad de 150 km/h- ¡Y se detiene súbitamente!",
+		"img": "41",
+		"options":[
+			"Navegue a la casilla. 98."
+		],
+		"audio": "rojo"
+	},
+	{
+		"title": "VUELA",
+		"description": "Pero no te importa qué clase de cohetes son… Todo lo que quieres es treparte al helicóptero para evitar caerte. Extiendes la mano y agarras el marco de la puerta. Con dificultad logras entrar al helicóptero y caes sentado en el asiento de lona. Cuando te inclinas para  mirar, ves que el robot espacial sigue avanzando por el museo. Parece detenerse y mirar la cápsula Mercurio y después, como si supiera exactamente qué ha pasado, levanta la cabeza cubierta por la escafandra y mira directamente hacia el helicóptero. Levanta el brazo, toma puntería y lanza hacia arriba unas chispas que parecen rayos. Una de ellas da en la parte delantero del helicóptero y otra aparentemente habría golpeado el rotor…¡sí, le ha dado al rotor! Y de pronto el rotor comienza a girar. Contienes la respiración. Lo único que te falta es tener un helicóptero artillado rugiendo dentro del museo. El rugido se convierte en un gemido de alta potencia y sientes que vibra todo el helicóptero y comienza a elevarse hacia el techo del museo. ¡Pero sabes que no se puede ir más allá!",
+		"img": "42",
+		"options":[
+			"Navegue a la casilla 113."
+		],
+		"audio": "verdeClarito"
+	},
+	{
+		"title": "COHETES",
+		"description": "Instantáneamente se abre la parte de arriba del vehículo espacial y eres catapultado con silla y todo. Una vez que estás fuera de la nave, se sueltan las ataduras que te mantenían amarrado al apoyabrazos y vuelas por el aire, pasando por encima de la mayoría de los objetos que se exponen en el museo. Agitas frenéticamente los brazos, tratando de agarrar cualquier cosa que impida tu caída. Tocas algo duro con la mano derecha, e inmediatamente te aferras a eso con todas tus fuerzas. Es la puerta lateral de un helicóptero artillado -el que viste durante tu visita- del tipo de los que usaron en la guerra de Vietnam. Tiene dos porta-cohetes, uno a la derecha y otro a la izquierda. Y están cargados con cohetes de combate.",
+		"img": "43",
+		"options":[
+			"Si crees que los cohetes funcionan, Navegue a la casilla 42.",
+			"Si piensas que hay un modo de descender, Navegue a la casilla 21."
+		],
+		"audio": "marron"
+	},
+	{
+		"title": "EL DISPARO",
+		"description": "Tratas de imaginarte una forma de evitar a ese mortal maniquí-soldado.Vuelves otra vez hacia él tu mirada frenética y aunque todavía sientes el ardor del veneno de la araña, esfuerzas por levantar la mano. Crees haber gritado \"Pare!\" Pero en realidad no emitiste ningún sonido. Agitas los brazos y tratas de sacudir la cabeza. Intentas caer de rodillas. Pero te mueves con mucha dificultad... es como si todo lo que trataras de hacer, fallara. El soldado parece estar riéndose, pero él tampoco emite ningún sonido. Te apunta con su arma de manera tal que casi puedes mirar dentro del largo cañón. Y vuelve a disparar. Otra vez hay un destello de luz. Y sientes el disparo en medio de la frente. Por un momento te mantienes de pie, pero después tus sentidos comienzan a entumecerse y caes al suelo. Lo último que piensas es que la araña va a sobrevivir.",
+		"img": "44",
+		"options":[
+			"FIN"
+		],
+		"audio": "blanco"
+	},
+	{
+		"title": "FIBONACCI",
+		"description": "Al salir de esa habitación desesperado pensando en que no te encuentren el mono y la araña quieres abrir la primera puerta que encuentras al correr, pero ¡No se abre! Tiene un sistema de seguridad cifrado y un papel que solamente dice Fibonacci, haciendo memoria tú sabes perfectamente que es, porque el guía lo explicó en el tour. Es una sucesión de números naturales INFINITA, la sucesión comienza con los números 0 y 1 a partir de estos, cada término es la suma de los dos anteriores, es la relación de recurrencia la que la define y está presente en muchos procesos naturales, desde el árbol genealógico de las abejas hasta las ramas de los árboles. Pero claro, por más de que sabes que lo sabes la adrenalina del momento hace que no te puedas acordar con que numero empezaba, así que solo te queda continuar corriendo.",
+		"img": "45",
+		"options":[
+			"Navegue a la casilla 46"
+		],
+		"audio": ""
+	},
+	{
+		"title": "TITILO",
+		"description": "Ahora debes refugiarte en otro cuarto. Sin mirar hacia atrás, doblas hacia la derecha y te escabulles por un corredor y no paras hasta que llegas a una pequeña puerta. Piensas que debe estar abierta porque recuerdas que el guía te dijo que detrás de esa puertita había un simulador de viaje espacial. Tomas el pequeño picaporte, abres la puerta y te deslizas dentro, mientras la puerta se cierra con un murmullo. El pequeño simulador está mucho más sombrío que las otras habitaciones y por un momento piensas que está totalmente a oscuras. Pero cuando tus ojos se acostumbran a las tinieblas del lugar, comienzas a ver alrededor tuyo lucecitas que titilan. Después te das cuenta de que el cuarto es como una pelota y tú estás adentro. Te mueves a tientas y encuentras una sillita... y decides tomarte un descanso. Te dejas caer suspirando y empiezas a tranquilizarte. Tu mano izquierda se desliza por tu costado y de pronto deseas no haberlo hecho, porque tus dedos tocan pequeños botones y antes de que puedas controlarte comienzas a sentirte bastante mareado. Y sabes el porqué. Es que la silla se mueve de un lado a otro mientras la pantalla con las luces centelleantes empieza a girar. Buscas frenéticamente en el tablero donde está el botón y tocas otro interruptor Inmediatamente surgen destellos de luz que salen de la pantalla y te das cuenta de que tienen una carga eléctrica.",
+		"img": "46",
+		"options":[
+			"Navegue a la casilla 20"
+		],
+		"audio": "naranjaFuerte"
+	},
+	{
+		"title": "CALOR",
+		"description": "¿Cohetes que buscan el calor? Inmediatamente empiezas a temblar porque sabes que tu cuerpo emite calor. No sabes cuánta temperatura necesita el cohete para empezar a buscar su objetivo, pero no tienes intenciones de quedarte a averiguarlo. ¡No esta noche! Dudas un momento, respiras hondo, y después giras y te lanzas en dirección opuesta a donde está el soldado robot. Pero no logras huir: le basta el sonido de tus pasos. Oyes un zumbido como si lanzaran algo y justo cuando te tiras al suelo, oyes silbar un cohete que casi te da en la cabeza. Das un grito y ruedas por el piso, esperando encontrar algún escaparate detrás del cual esconderte. Llegas a la maquinaria firmemente cementada que se llama simulador de aceleración. Crees que el cemento que la rodea es lo suficientemente grande y fuerte como para detener uno de esos cohetes. El robot vuelve a disparar. Oyes otra vez el silbido del cohete que surca el aire y se incrusta en la base de concreto…",
+		"img": "47",
+		"options":[
+			"Navegue a la casilla 103"
+		],
+		"audio": "verde"
+	},
+	{
+		"title": "PARALIZADO",
+		"description": "El enorme macaco comienza a saltar por todos lados y a correr de un extremo al otro del cohete, arrastrándote con él. Gruñe y toca la ventana de la cápsula con la boca bien abierta y los dientes brillando en la penumbra. ¿Es posible que esté pensando? Parece que sí. Ahora toma con una de sus garras una perilla y tira hacia él. El parabrisas se abre y puedes ver dos asientos, uno al lado del otro. El mono hace gestos y te das cuenta de que quiere que subas, pero tú no deseas entrar. Luchas, tratando de liberar tu mano, pero no lo logras y la gigantesca tarántula vuelve a escupir. Sientes un terrible ardor justo encima del tobillo e inmediatamente te quedas cojo. El mono te arrastra adentro y te deja caer en uno de los asientos. Es demasiado pequeño, pero no hay nada que puedas hacer al respecto. Inmediatamente, el mono te ata a la silla y después se trepa al otro asiento. Esto no te gusta nada, pero estás casi paralizado por el veneno de la araña. El mono parlotea de excitación y te coloca una escafandra espacial en la cabeza y se pone otra. Sus garras toquetean todo y después una de ellas tira de una perilla. Súbitamente oyes un zumbido.",
+		"img": "48",
+		"options":[
+			"Navegue a la casilla 29"
+		],
+		"audio": "negro"
+	},
+	{
+		"title": "EL TABLERO",
+		"description": "No sabes qué hizo el animal, pero empujas uno de los controles con todas tus fuerzas, esperando que eso acabe con las vibraciones. Pero no pasa nada. Vuelves a tirar de la palanca de control, pero todavía no ocurre nada. Aparentemente no se mueve para ningún lado. Tomas otra palanca, que está a la izquierda de la primera. Tiras de ella, pero no se mueve. La empujas, y tampoco se mueve. Tratas de hacerla ir hacia la derecha y después hacia la izquierda. Sigue atascada. La boca se te seca, tu lengua está pegada a los labios y tu corazón late precipitadamente. Frenéticamente mueves la mano de un control a otro, y después a un tercero. ¡Ninguno se mueve! Pateas tratando de encontrar los controles de los pies. Los encuentras, pero no responden, igual que los de arriba. El mono anda de un lado para otro, y sigue golpeando el parabrisas. Ahora su garra derecha se levanta y le pega a uno de los botones del tablero superior. Y de golpe oyes un sonido extraño, parecido a un silbido.",
+		"img": "49",
+		"options":[
+			"Navegue a la casilla 87"
+		],
+		"audio": "verdeCloaca"
+	},
+	{
+		"title": "ARRIBA",
+		"description": "El cohete se pone en posición vertical. Oyen un chirrido cuando la base se desprende. El mono gigante parlotea aún más fuerte, agitando sus patas delanteras y moviendo rápidamente la cola de un lado a otro. Después una de sus garras se detiene en una gran palanca y súbitamente termina su charla. Se vuelve para mirarte con los labios muy apretados. Gruñe y da un tirón a la palanca. ¡Y se oye un poderoso rugido! No puedes creer lo que oyes, pero has oído muchas veces ese ruido en televisión... ¡Los cohetes se están disparando! Surgen espesas nubes de humo que inundan el museo. Y comienzan a elevarse. Hacia arriba, siempre hacia arriba.",
+		"img": "50",
+		"options":[
+			"Navegue a la casilla 80"
+		],
+		"audio": "verdeCloaca"
+	},
+	{
+		"title": "LA FIGURA",
+		"description": "¿Podría ser un robot la extraña criatura del traje espacial naranja brillante? Con pasos rápidos llegas hasta la pared del corredor y te aplastas contra ella, tratando de achatarte todo lo posible. La figura sigue moviéndose, pero cuando la miras te das cuenta de algo muy peculiar. Aunque sus pies tocan el suelo y puedes oír bien sus pisadas, éstas no parecen producirse exactamente al mismo tiempo. Pero sea lo que sea esta cosa, estás seguro de que no quieres saber nada de ella. Llega a donde estás parado, se detiene un momento y después continúa su marcha. Ahora se dirige hacia una de las grandes vitrinas sin detenerse para nada y camina a través de ella. ¡La atraviesa, pero sin romper nada! Tragas con dificultad, y a continuación algo en la pared más lejana del museo atrae tu atención. Ves relampaguear una luz verde... una luz verde muy fuerte.",
+		"img": "51",
+		"options":[
+			"Navegue a la casilla 57."
+		],
+		"audio": "rosa"
+	},
+	{
+		"title": "HUNDE",
+		"description": "Te da la impresión de que la nave se está haciendo pedazos. Pero después recuerdas que el paracaídas tiene una cubierta y el sonido que oyes es el de la parte superior que se desprende para que el paracaídas pueda desplegarse. Muy bien. Ahora todo lo que tienes que hacer es flotar en el aire hasta caer al agua... si es que está sobre los Grandes Lagos. Tres minutos después comienzas a sentir el calor. La nave está bajando. Te inclinas y espías por el parabrisas, pero todavía está oscuro. Cuando empiezas a asustarte porque crees que nadie te ha visto, descubres reflectores potentes que recorren el cielo de un lado a otro y de arriba abajo... y de pronto, una luz brillante te ilumina la cara! Alguien de ahí abajo oyó el ruido y está tratando de ver qué pasa. -¡Vamos a bajar! -le gritas-. ¡Sálvanos! Unos instantes después la nave espacial cae en las aguas oscuras. Primero se hunde, pero antes de que tengas tiempo de preocuparte sale nuevamente a superficie, y estás a menos de quince metros de la enorme barco. Cientos de reflectores brillan sobre el agua y sabes que alguien vendrá a buscarte. La cola del gigantesco mono latiguea de un lado a otro y el animal abre la boca y muestra dos hileras de dientes brillantes que se abren y se cierran, se abren y se cierran. Es como si el mono supiera que están a punto de ser rescatados…",
+		"img": "52",
+		"options":[
+			"FIN"
+		],
+		"audio": "verdeCloaca"
+	},
+	{
+		"title": "LA MESA",
+		"description": "Sigue caminando en tu dirección, pero te parece que no se ha dado cuenta de que estás cerca. Continúa en línea recta hasta llegar a la primera mesa cubierta con cristales que, según la explicación del guía, está llena de rocas de la superficie de la luna. El extraño ser se detiene, mira hacia la mesa y después con sólo una mano levanta todo el mueble. Tragas saliva. Sabes que eso debe pesar más de una tonelada y este gigante lo ha levantado con una mano! Quieres alejarte silenciosamente, y mueves un pie con mucho cuidado pero la punta del zapato se engancha en un mosaico roto y tropiezas.",
+		"img": "53",
+		"options":[
+			"Navegue a la casilla 55"
+		],
+		"audio": "amarillo"
+	},
+	{
+		"title": "DOPPELGANGER",
+		"description": "Al tropezarte de manera tan absurda te invade un sentimiento de furia y quedas a merced de tu enemigo aun no logras descifrar que es parece ser un astronauta, pero se mueve de una manera muy robótica ¿será un robot lo que hay adentro? o ¿solo será el peso del traje el que hace que se mueva así? Tu primera deducción es que puede ser un robot con inteligencia artificial como viste en la muestra de Mitra Azar DoppelGANger (significa doble andante) que es una investigación sobre rostros humanos generados automáticamente por un sistema GAN, un campo de la inteligencia artificial en el que dos redes neuronales compiten entre sí para aprender y producir resultados de forma autónoma, básicamente son rostros humanos generados por algoritmos, entonces que es este astronauta? ¿Un robot o una persona?",
+		"img": "54",
+		"options":[
+			"Navegue a la casilla "
+		],
+		"audio": ""
+	},
+	{
+		"title": "ASTRONAUTA",
+		"description": "El astronauta gira manteniendo en alto la mesa exhibiciones, mira a su alrededor y después fija la mirada en ti. Le devuelves la mirada, temblando como una hoja. Y frunces el ceño, porque incluso en esta penumbra puedes ver a través de la máscara de plástico transparente que le cubre la cara y esa cara te resulta muy familiar. Recuerdas todas las fotos que viste durante la visita guiada al museo, y lentamente una de las imágenes emerge y se coloca en primer plano. El guardia dijo muy poco con respecto a ella, pero te acuerdas de haber visto algo en televisión, en un noticiero especial sobre una de las misiones del laboratorio espacial. Un astronauta…",
+		"img": "55",
+		"options":[
+			"Navegue a la casilla 70"
+		],
+		"audio": "amarillo"
+	},
+	{
+		"title": "ESPACIO",
+		"description": "Nos segundos después te parece que el cohete se dio vuelta completamente. Eso es lo que tú quieres, pero da la impresión de que al mono no le gusta lo que ocurre, porque se contorsiona y empieza a darle cachetadas al parabrisas. ¡Y eso no te gusta nada! Sabes que el parabrisas es fuerte, pero si el animal sigue golpeándolo es posible que se rompa. Y sabes bien lo que eso significa... los dos serían succionados y lanzados al espacio. Esperas unos instantes y después accionas los dos interruptores de los retrocohetes. Piensas que esto va a disminuir la velocidad de la nave. Te da la impresión de que oyes una leve explosión y esperas que eso signifique que los cohetes están funcionando. Miras los controles y te parece que la nave se desacelera. ¡Muy bien! Pero cuando todavía, estás felicitándote por haber elegido los interruptores apropiados, toda la nave espacial comienza a balancearse violentamente hacia atrás y adelante. Sientes que te arrojan contra un costado y después contra el mono. Y el animal comienza a gritar y a mover la cola.",
+		"img": "56",
+		"options":[
+			"¿Usaste los interruptores equivocados? Navegue a la casilla 65.",
+			"¿Fue el mono el que causó el problema de golpear otro interruptor? Navegue a la casilla 49."
+		],
+		"audio": "verdeCloaca"
+	},
+	{
+		"title": "LUCES LASER",
+		"description": "Miras fijo la luz verde porque crees que en algún lugar, durante tu visita anterior al museo, viste algo como eso. Te concentras y entonces recuerdas que el guía te dijo algo sobre el uso de luces láser para hacer fotografías inusuales. Firmando electrónicamente a un individuo o un animal y coordinando exactamente las imágenes proyectadas desde dos direcciones distintas, se puede obtener una fotografía tridimensional. De eso se trata de una tridimensional… ¡Un momento! No puedes estar tan seguro, porque mientras sigues mirando, el gigante se detiene frente a la pared más lejana, duda un momento y después, lentamente, gira sobre sí mismo y cuando lo hace, uno de sus enormes brazos comienza a elevarse despaciosamente. En ese momento comprendes que es algo más que una simple imagen, hay algo extraño y atemorizador en el modo de moverse del gigante. Observas atentamente su mano enguantada y ves que sostiene algo que parece un tipo de arma espacial. Tiene la forma de una pistola, sólo que el cañón es más ancho de lo normal...Tragas saliva con dificultad. ¡Debe de ser un lanza rayo! Y uno que dispara rayos poderosos.",
+		"img": "57",
+		"options":[
+			"Si crees que no puede hacer daño, Navegue a la casilla 69.",
+			"Si piensas que es peligroso pero que puedes escapar de él, Navegue a la casilla 62."
+		],
+		"audio": "rosa"
+	},
+	{
+		"title": "OLOR",
+		"description": "Comprendes que no debes estar en esta habitación. El guía había señalado hacia esta puerta en particular mientras aconsejaba a los visitantes que nos acercaran a ella, y mucho menos que la tocaran. E inmediatamente te das cuenta de una de la razones por la cual no deberías estar aquí: el olor terrible! Piensas que será mejor arriesgarte a enfrentar ese extraño guardián electrónico y te vuelves hacia la puerta, pero cuando tanteas la superficie descubre que no tiene picaporte por el lado de adentro. Y la puerta quedó trabada cuando se cerró. Te aprieta la nariz y deseas no haber dejado nunca el motel ¡Pero ahora tienes que salir de aquí! Te alejas de la puerta y miras hacia el otro extremo del cuarto, esperando encontrar otra puerta. Es posible que la haya, pero antes de que puedas localizarla te atraen los bancos de taller ubicados a lo largo del ancho past dizo. Este debe ser el lugar donde diseñan las artefactos para los experimentos mecánicos y electrónicos Sobre uno de los bancos ves un aparato mecánico que parece el brazo de una grúa, algo que podría colocarse en el exterior de una estación espacial para realizar maniobras. En otro banco hay bobinas de alambre muy fino, diseñadas, por lo que puedes ver su forma de mariposa, y quizás sea un tipo de antena para la nave espacial.",
+		"img": "58",
+		"options":[
+			"Navegue a la casilla 89"
+		],
+		"audio": "rosa"
+	},
+	{
+		"title": "OBSERVANDOTE",
+		"description": "Te quedas totalmente quieto, recordando que cuando se aproxima un animal desconocido lo más seguro es no hacer ningún movimiento brusco. El mono se detiene a tu lado y se queda mirándote cara a cara. Después tuerce la cabeza y te mira la oreja derecha: sus labios se abren y muestran unos dientes muy blancos. Entonces salta súbitamente hacia arriba y deja escapar un penetrante chillido. Asustado, das media vuelta. El mono sacude la cabeza, estira ambas patas delanteras, las mueve lentamente y después las coloca sobre tus hombros. ¡Y te aprieta con fuerza! El animal parece saber exactamente dónde están las terminaciones nerviosas, porque sientes un dolor súbito e intenso. Gradualmente comienzas a sentir que todo tu cuerpo se entumece, y te das cuenta de que si el mono te suelta te caerás al suelo. Ahora acerca su cara a la tuya y restriega su nariz contra tu mejilla. Resopla, y sus labios se abren y se cierran, se abren y se cierran. ¡Y te sientes cada vez más débil!",
+		"img": "59",
+		"options":[
+			"Navegue a la casilla. 96."
+		],
+		"audio": "indigo"
+	},
+	{
+		"title": "PARACAIDAS",
+		"description": "¡Los controles se han enloquecido! El cohete está saltando como si avanzara por un camino desparejo y parece que se va a hacer pedazos! Gritas. El mono sacude la cabeza y la asoma hacia adelante, ¡y te grita a su vez! Pero en ese momento recuerdas de golpe que cuando una nave espacial reingresa a la atmósfera de la Tierra, lo normal es que rebote. Tratas de controlar las manos, y en cuanto puedes fijar tu atención en el altímetro, esperas a que la aguja llegue a la marca roja. Colocas una mano en el interruptor correspondiente al paracaídas... y en el momento en que la aguja llega al lugar exacto, lo oprimes. De pronto se producen dos explosiones que sacuden todo y la nave comienza a temblar. ¡Y te das cuenta de que algo salió mal!",
+		"img": "60",
+		"options":[
+			"¿Se está rompiendo la nave? Navegue a la casilla 52.",
+			"¿Ocurre algo distinto? Navegue a la casilla. 11.",
+			"¿O todo va a salir bien? Navegue a la casilla 67."
+		],
+		"audio": "verdeCloaca"
+	},
+	{
+		"title": "ESTA PENSANDO",
+		"description": "Aunque no estás seguro de querer acompañar al mono, si estás seguro de que no quieres volver por donde viniste, de modo que lo sigues. El animal te conduce a Io largo de todas las jaulas y luego dobla y atraviesa una puerta estrecha. Después te hace recorrer varios metros de un pasillo pobremente iluminado y luego se detiene, te mira y hace una mueca. Lo miras y súbitamente comprendes que este extraño ser tiene una mente superior a la animal. ¡Está pensando! Te está llevando deliberadamente hacia un lugar que él conoce!Y tú tienes el presentimiento de que no deberías ir con él.",
+		"img": "60",
+		"options":[
+			"Navegue a la casilla 117."
+		],
+		"audio": "celeste"
+	},
+	{
+		"title": "EL GUARDIAN",
+		"description": "El guía te habló a ti y a los otros visitantes de los varios proyectos de investigación que eran una consecuencia de las actividades espaciales y del uso de cohetes. Y comprendes que lo que estás viendo pertenece a uno de esos proyectos, y estás seguro de que si exhiben este tipo de película de noche, tiene que ser por una buena razón. Este tipo de guardián, operado electrónicamente y con rayos láser, es mucho más completo que un ser humano. Puede \"sentir\" y \"percibir\" la presencia de cualquier extraño en el museo. ¡Y eso es Io que tú eres, un extraño en el lugar equivocado. Decides escapar antes de que la figura termine de darse vuelta y te descubra. Agachándote, te escurres a lo largo de la pared hacia la primera puerta.  Agarras la manija —que es larga y no se parece a las otras - y empujas. Justo a tiempo, porque atrás tuyo una oleada de luz verde ilumina el museo. Oyes dos explosiones fuertes y rápidas y ves que desapareció la pared donde te escondías. Pero lograste escapar, momentáneamente por lo menos. Dejas que la puerta se cierre y echas un el a tu alrededor. Y te sobresaltas porque estás en cuarto prohibido; éste es el que tiene el letrero que dice ÚNICAMENTE PERSONAL AUTORIZADO.",
+		"img": "60",
+		"options":[
+			"¿Deberías volver al pasillo esperando que la figura haya desaparecido? Navegue a la casilla 58.",
+			"¿O sientes curiosidad y querrías echar una ojeada ? Navegue a la casilla 75."
+		],
+		"audio": "rosa"
+	},
+	{
+		"title": "FLOTANDO EN EL ESPACIO",
+		"description": "Pero ni bien se te cruza la idea, el mono gira la cabeza hacia ti con la boca abierta en una gran mueca y comienza a parlotear. Y se retuerce dentro de las ataduras. Agita los brazos, mueve la cola de derecha a izquierda y hace gestos afirmativos con la cabeza. A ti no te importa lo que hace... ¡siempre y cuando no toque nada! Pero de pronto la garra del animal se estira hacia un tablero especial de controles. Se apodera de uno, y después de otro que está al lado. Y después súbitamente se queda inmóvil. Muy bien, piensas, simplemente quédate quieto. Pero todavía estás pensándolo cuando la garra derecha del mono agarra la palanca roja...y tira con fuerza. Sientes una leve explosión debajo tuyo y abruptamente el asiento se suelta de los tornillos que lo retienen, la compuerta se abre, sales volando de la nave espacial!Y Io último que piensas es que ahora hay dos seres humanos flotando en el espacio... el cosmonauta ruso y tú...",
+		"img": "63",
+		"options":[
+			"FIN"
+		],
+		"audio": "verdeCloaca"
+	},
+	{
+		"title": "DISPARADO POR EL TECHO",
+		"description": "Golpeas salvajemente la puerta trampa pero ésta no cede. Vuelves a los tropezones y chocas contra una reproducción a escala normal del tablero de instrumentos. Comienzas a apretar todos los botones y a de todas las palancas en un intento desesperado. Nada.. nada... nada. iPero de pronto algo ocurre! Cuando golpeas la palanca que tiene la manija color naranja brillante, todo el alunizador comienza a vibrar. Y debajo tuyo un cohete empieza a rugir; y a continuación se producen tres explosiones cortas y fuertes, como chavetas que laran en pedazos. Instantáneamente el alunizador de su lugar y se lanza hacia la pared del museo. Gritas, tratas de agarrar la manija de la puerta trampa; rebotas contra la ventanita, pero no puedes detener el loco vuelo. El alunizador se estrella contra la pared del museo,la atraviesa y después se detiene abruptamente. La nada súbita te lanza hacia adelante y sales disparado por el techo angosto del aparato, que se abrió el golpe. Aterrizas en medio de los espesos arbustos que rodean el museo. Te quedas quieto un momento, respirando agitadamente. Después miras alrededor, todavía mareado, ¡y comprendes Io que ocurrió! ¡Con ese viaje del quecido lograste escapar de los animales y del museo! ¡Y no tienes intenciones de volver a entrar!",
+		"img": "64",
+		"options":[
+			"FIN"
+		],
+		"audio": "negro"
+	},
+	{
+		"title": "LA AGUJA",
+		"description": "No sabes si oprimiste interruptores equivocados, ¡pero sabes qué es lo que va a ocurrir! Te vas a balancear hacia atrás y hacia adelante, el cohete va a quedar fuera de control, ¡y en unos segundos va a caer hacia la Tierra y se va a incendiar! ¡No! ¡No quieres quemarte en el espacio! Vuelves a tocar los interruptores del cohete, y los oprimes en la dirección opuesta. Por un momento la nave espacial sigue moviéndose violentamente, pero después lentamente vuelve a su posición original. Tragas saliva con dificultad y frunces el entrecejo mientras miras los controles. Los mueves otra vez... sólo que ahora con lentitud. La nave cambia de posición, pero estás seguro de que la velocidad disminuye. Estudias los relojes de control y uno de ellos te dice que estás perdiendo altura. Ves una línea roja en el altímetro y al principio te parece que eso sugiere algún peligro.¿Peligro? ¿Qué tipo de peligro? Mira los números y entonces te das cuenta. Se supone que cuando la aguja llegue a esa línea tú debes accionar el interruptor que abre el paracaídas. Pero mientras estudias este instrumento, el mono vuelve a toquetear los interruptores que están a su derecha. Es todo Io que necesitarías.... que el animal tocara el control equivocado e hiciera que la nave espacial… Pero antes de que puedas completar tu pensamiento, comienzas a sentir movimiento. Te sientes arrojado a uno de los lados de la nave y te das cuenta de que tu cabeza está a punto de golpear contra el metal.",
+		"img": "65",
+		"options":[
+			"Navegue a la casilla 60."
+		],
+		"audio": "verdeCloaca"
+	},
+	{
+		"title": "LA RESPIRACION",
+		"description": "Sin embargo, adentro no hay ninguna luz sino oscuridad total. Dudas, preguntándote qué tienes delante. Entonces los modales del mono cambian. Ya de ti sino que da rápidamente un paso atrás gente. Y el sonido tiene un tono enojado. Contiene la respiración, preguntándote qué intentará hacer el animal. No tienes que esperar mucho para saberlo. Súbitamente se lanza y choca violentamente contigo. Pierdes pie y caes hacia adelante, y antes de que puedas recuperarte la puerta se cierra de un portazo a tus espaldas. Comienzas a deslizarte hacia abajo por un pasillo resbaladizo cuyas paredes laterales parecen curvas, como si fuera un enorme tubo hueco. Manoteas frenéticamente, tratando de agarrarte de algo, de cualquier cosa, pero tus manos patinan por las paredes como si fueran superficies demasiado pulidas.",
+		"img": "66",
+		"options":[
+			"Navegue a la casilla 78."
+		],
+		"audio": "celeste"
+	},
+	{
+		"title": "EL MASTIL",
+		"description": "Sin embargo, súbitamente sientes un tremendo sacudón y piensas que vas a salir disparado por la parte de abajo de la nave, pero cuando todavía estás sintiendo los efectos del tirón, te sonríes para tus adentros.Ya sabes de qué se trata. El paracaídas se abrió y simplemente está disminuyendo la velocidad de descenso. Sabes también que en unos minutos vas a aterrizar en algún lado. Y más vale que sea en el agua. Te inclinas hacia adelante y miras a través del parabrisas. Ves edificios iluminados, aunque mucho más pequeños de Io que pensabas. Y ves las luces en las calles y las avenidas de una ciudad. ¿Una ciudad? No quieres aterrizar en una ciudad; quieres que la nave espacial descienda sobre agua, pero no puedes controlar su camino. Todo lo que puedes hacer es tripularla mientras baja. A medida que te acercas, comienzas a identificar algunos edificios porque los has visto en fotos. Ves el... pero espera, ahora ves el edificio más alto del mundo... la Torre Sears de Chicago. Y la nave espacial se dirige hacia allí. Tiene un mástil muy alto en la parte superior.Tragas saliva dificultosamente. Ahora sabes Io que está a punto de suceder. La nave está bajando justo sobre ese mástil. Tú y el macaco gigante van a estrellarse contra la punta del edificio...",
+		"img": "67",
+		"options":[
+			"FIN"
+		],
+		"audio": "verdeCloaca"
+	},
+	{
+		"title": "CLICK",
+		"description": "Como no quieres que ese robot te queme vivo, tragas saliva, gritas algo y sales disparando hacia la salida. No estás seguro de qué es eso, pero no te vas a quedar ahí para averiguarlo. Tropiezas con un gran recipiente de residuos, chocas contra el pasamanos que está a lo largo del pasillo y te lanzas de cabeza hacia la puerta. Vas a tener que esperar a mañana y pedirle a tu que demore la partida para reclamar tu cámara. Llegas a la puerta y la empujas con fuerza, pero se abre. Recuerdas que cuando dejaste que se cerrara, oíste un click y ahora comprendes que ese click significaba que se había corrido el cerrojo. Gritas frenéticamente. Esa cosa —el robot con el traje espacial— todavía te está buscando.",
+		"img": "68",
+		"options":[
+			"Si crees que hay otra salida, Navegue a la casilla 33",
+			"Si piensas que lo mas seguro es alejarte del robot, Navegue a la casilla 30"
+		],
+		"audio": "azul"
+	},
+	{
+		"title": "EL GIGANTE",
+		"description": "Conoces un poco sobre las armas militares que se diseñan actualmente, pero no sabes nada sobre el arma que usa el gigante. Pero te dices a ti mismo que esto no es real, sino que Io que estás viendo es una película...iNO! El brazo sigue levantándose lentamente hasta que el arma apunta directamente hacia la pared donde te estás escondiendo. Respiras hondo y de golpe te das cuenta de que, sea o no una película, hay algo muy siniestro en la postura del gigante. Te cuesta creerlo, pero parece que realmente piensa dispararte. Das un paso hacia la izquierda, y el brazo se mueve ligeramente. Te agachas y te vas rápidamente hacia la derecha. Y el brazo se mueve nuevamente. Le gritas se detenga, pero el gigante deliberadamente apunta con el arma en tu dirección.",
+		"img": "69",
+		"options":[
+			"Navegue a la casilla 85"
+		],
+		"audio": "rosa"
+	},
+	{
+		"title": "ENRREDO",
+		"description": "Pero no puede ser. El noticiero dijo que durante la mision uno de los astronautas salio fuera del vehiculo para reparar la puerta que se habia abierto y no se podia cerrar bien. Mientras estaba ahi fuera trabajando con los dispositivos electricos, uno de ellos se enredo a los sistemas monitores de su pulso y su cerebro. Por un momento se temio que hubiera muerto. Otro astronauta lo entro al laboratorio y uso el equipo de primero auxilios que habia dentro de la nave. Pero estuvo inconsciente por mas de cinco horas y cuando finalmente revivio habia perdido totalmente su voluntad y su sentido de ubicacion. Se volvio loco y su compañero tuvo que usar un sedante poderoso. Para cuando lo trajeron finalmente a tierra ya habia sufrido daños irreparables. Se habian producido alteraciones geneticas que lo transformaron en un monstruo. Pero creias que el informativo habia dicho que lo tenian en un hospital especial en Houston, Texas. Pero no esta en Houston, esta aqui. ¡Ahora estas mirando!",
+		"img": "70",
+		"options":[
+			"¿Es una amenaza para ti? Navegue a la casilla 90"
+		],
+		"audio": "amarillo"
+	},
+	{
+		"title": "GUIA",
+		"description": "El mono te conduce hasta la entrada de su jaula y por un momento crees que quiere que entres pero ahora parece hacerte señas para que te quedes donde estas y es el el que salta dentro. A los pocos segundos regresa con una banana a medio comer. Hace ver que te ofrece un bocado, pero despues lo retira y se come el resto. Y una vez que termino de tragarla, vuelve a tomarte de la mano y sigue en la misma direccion. Empiezas a entender. Es que hay otro modo de salir de la habitacion y eso te viene muy bien. Si consigues mantenerte alejado del astronauta robot, tal vez logres salir sin sufrir daños. El mono gigante te lleva a traves de un pasillo estrecho y mal iluminado que parte de un extremo de habitacion y despues gira hacia la derecha. Ahi frente a ti, hay una puerta grande con una dminuta luz naranja en la parte superior. El animal pone tu mano sobre el picaporte, lo haces girar y se abre facilmente.",
+		"img": "71",
+		"options":[
+			"Y donde estas? Navegue a la casilla 66"
+		],
+		"audio": "celeste"
+	},
+	{
+		"title": "MUÑECO DE TRAPO",
+		"description": "El robot te mantiene en alto como si fueras un muñeco de trapo. Gritas, te retuerces y pataleas tratando de liberarte, pero el robot no te suelta. En cambio se da vuelta, y atraviesa el museo sin detenerse hasta llegar a una pantalla de radas de escala reducida. Te colca contra la pantalla de radar de escala reducida. Te coloca contra la pantalla, y te sostiene con una mano mientras la otra la coloca sobre un conmutador electrico. ¡Oh, no! ¡Pero no puedes moverte! El robot se rie -Te parece que nunca has oido una risa tan hueca y atemorizadora- y le da un tiron a la manija del conmutador. Durante unos instantes sientes una corriente electrica que pasa por todo tu cuerpo. Y de pronto ya no estas en el museo; estas zumbando por el espacio a la velocidad de la luz. Y no te detienes hasta quedar atrapado en los tableros de control de un satelite, un satelite que gira alrededor de la Tierra…",
+		"img": "72",
+		"options":[
+			"FIN"
+		],
+		"audio": "lila"
+	},
+	{
+		"title": "LANZARRAYOS",
+		"description": "El Lanzarrayos estalla de pronto, y te parece que lo alcanzo el veneno de la araña. Se eleva una nube de humo y al mismo tiempo sientes que te entumecimiento comienza a disiparse; antes de que la araña pueda volverse hacia ti, corres a traves del salon y te escondes detras de un gran escaparate no tiene solo pares de guantes y de botas, sino que tambien encierra moldes en yeso de manos y pies, con la forma exacta de los de uno de los hombres. Y mientras estas escondido ahi detras, oyes ruidos de rasguñaduras que vienen de la vitrina.",
+		"img": "73",
+		"options":[
+			"¿Es la araña que te encontro?Navegue a la casilla 8",
+			"¿O simplemente desarreglaste las cosas que estan en exhibicion? Navegue a la casilla 41. Navegue a la casilla 41."
+		],
+		"audio": "blanco"
+	},
+	{
+		"title": "LA CAPSULA",
+		"description": "Estas tratando de descifrar los controles de la capsula Geminis. Has estado en el espacio tan solo unos minutos. Si usas esos controles, probablemente puedas hacer que la nave descienda en algun lugar de los Estados Unidos -tal vez sobre el rio Mississippi o sobre uno de los Grandes Lagos- antes de llegar al Oceano Atrlantico. El mono gigante mueve la cabeza hacia la izquierda y la derecha con los labios separados y los dientes brillando en la penumbra de la nave espacial, pero te ignora. ¡Muy Bien! Moviendote cautelosamente para no atraer la atencion del animal, extiendes la mano para tomar el control que hace girar la nave. Lo tocas y te proteges, pero por un instante no ocurre nada, y estas a punto de tocarlo otra vez cuando sientes un leve movimiento giratorio.",
+		"img": "74",
+		"options":[
+			"Navegue a la casilla 56."
+		],
+		"audio": "verdeCloaca"
+	},
+	{
+		"title": "ULTRASECRETO",
+		"description": "En esta habitacion ultrasecreta vas a dispositivos distintos a todo lo que has visto hasta ahora. Sobre un enorme banco de taller ves algo que parece una enorme pelota de las que se usan en la playa, solo que esta tiene cuatro paletas de helice en forma de molino de viento y en el centro de la pelota hay una sabiente tubular. Te acercas para mirarlo y empiezas a temblar porque en el centro del tubo, y con forma de cohete, hay un arma que es una cabeza nuclear. Cien armas como esta podrian borrar todo un pais. En la mesa siguiente ves algo igualmente atemorizador; la porcion correspondiente al “satelite” es muy parecida a la otra: una pelota enorme con cuatro paletas de helice. Pero en el centro de esta, hay un reflector hundido hacia adentro y sabes que cuando lo despliguen y lo empujen  hacia afuera, se convertira en un gigantesco espejo eliptico que reflejara los rayos del sol para destruir ciudades enteras. Se supone que el programa espacial es totalmente pacifico, ¡pero estas seguro de que estas son armas! Le echas una ojeada a los otros objetos que estan siendo montados aqui. Uno parece ser un lanzacohetes muy similar al que hay en el helicoptero que usaron en Vietnam, solo que este probablemente dispara algun tipo de rayo laser. Despues ves algo que se asemeja a un paraguas de aluminio y esta adherido a un satelite mas pequeño y con forma de barril. Mientras estas mirando, de pronto te das cuenta de que oyes un tic tac, que viene de una de las mesas mas grandes.",
+		"img": "75",
+		"options":[
+			"¿Se trata de otra arma? Navegue a la casilla 105",
+			"¿O crees que simplemente un reloj? Navegue a la casilla 116"
+		],
+		"audio": "rosa"
+	},
+	{
+		"title": "MORDIDA",
+		"description": "Se lleva tu mano a la boca y por un momento le miras los dientes y piensas que va a morderte, pero en cambio te lame la palma. Tragas saliva con dificultad y te quedas mirandolo; la cara del animal esta casi a tu altura. Hace un sonido que casi parece una risa, como si supiera lo que es el gozo y despues te toma la muñeca entre sus dedos, mientras con su garra derecha hace gastos en direccion opuesta a la puerta por la que entraste. Despues empieza a llevarte en ese sentido.¿Hacia su jaula?¿O hacia otro lugar? Quieres liberarte. Muchas veces has tenido ganas de jugar con un mono, pero en este momento todo lo que quieres es encontrar tu camara, salir de este extraño museo y volver a tu motel. Pero el mono parece tener otros planes.",
+		"img": "76",
+		"options":[
+			"¿Te va a llevar de vuelta a su jaula? Navegue a la casilla 71.",
+			"¿O va a sacarte del museo? Navegue a la casilla 61."
+		],
+		"audio": "indigo"
+	},
+	{
+		"title": "CAIDA",
+		"description": "El aparato te lleva hasta arriba y oyes rechinar los engranajes del motor. Sabes que en unos segundo vas a caer en picada, y no puedes siquiera imaginarte como va a ser esa caida. Pero subitamente cesan los chirridos, y en cambio oyes un sonido parecido al que se produce cuando se deja salir aire de un neumatico grande. Ahora el sonido cambia lentamente y te da la impresion de que se transforma en el gemir de una sirena. ¿Es una señal? Pero antes de que tengas tiempo de pensar demasiado experimentas una subita sacudida. Se activa el mecanismo de liberacion y sientes que tienes el corazon en la garganta ¡porque empizas a caer! Y caes cada vez mas rapido. ¡Sientes que te levantan de la silla y tratas de aferrarte al borde, a cualquier cosa de la que puedas agarrarte! El aire silba en tus oidos y la sirena es cada vez mas fuerte. Comienzas a gritar con toda tu voz. ¡No quieres chocar contra el fondo yendo a esta velocidad!",
+		"img": "77",
+		"options":[
+			"Navegue a la casilla 107"
+		],
+		"audio": "rojo"
+	},
+	{
+		"title": "PENDIENTE EMPINADA",
+		"description": "La pendiente se hace mas empinada y vuelves a gritar, pero sin darte tiempo a nada la superficie resbaladiza termina abruptamente y caes derecho hacia abajo. Gritas y vuelves a gritar antes de aterrizar sobre algo blando y muy natural. Te quedas conmocionado un momento; despues lentamente comienzas a tantear el suelo. Te lleva unos segundos pero finalmente te das cuenta de donde estas. ¡Afuera! El mono te empujo por su propia puerta de escape hacia algo que parece ser un parque de juegos especial. Miras a tu alrededor. Hay una valla alta, pero nada que te impida treparte a ella, y mas alla hay luces y ruido de transito. Todo lo que tienes que hacer es subirte a la cerca y correr, correr, correr hacia el motel. ¡Mañana buscaras la camara!",
+		"img": "78",
+		"options":[
+			"FIN"
+		],
+		"audio": "celeste"
+	},
+	{
+		"title": "LA BOVEDA",
+		"description": "Y tan pronto entras al planetario la puerta corrediza se cierra y queda trabada. Bueno, piensas que si se abre de afuera tambien podra abrirse desde adentro. De todos modos te has salvado de la araña. En algun momento se ira a su jaula y podras buscar la camara y volver al motel. Mientras tanto, aqui estaras comodo. Las pequeñas luces que tienen forma de estrellas y planetas iluminan el lugar lo suficiente como para permitirte encontrar el divan. Te trepas a el, te hundes en su mullido confort y miras hacia arriba. El guia tenia razon. El divan se mueve lentamente y la boveda por encima de tu cabeza tambien se mueve y si te olvidas de todo realmente tienes la sensacion de estar en el espacio.Tanteas el costado del divan, preguntandote si tambien tendra algun control. Tocas tres botones grandes y decides que deben tener alguna relacion con la pantalla que esta encima tuyo y con el asiento. con la mente ya en las “estrellas” que estas viendo, tocas casi sin darte cuenta los botones. Uno de ellos parece tener unas letras grabadas. Te preguntas para que, puesto que nadie puede leer lo que dice sin ponerse de costado. Dejas correr tu dedo sobre las letras, tratando de deletrar las palabras. Una de las letras esta mas profunda que las otras y descuidadamente hundes una uña en ella. ¡E instantaneamente deseas no haberlo hecho!",
+		"img": "79",
+		"options":[
+			"Navegue a la casilla 108."
+		],
+		"audio": "rojo"
+	},
+	{
+		"title": "GEMINIS",
+		"description": "Tu y el mono gigante que maneja los controles estan con un cohete Geminis dirigiendose al espacio exterior. Y van a traves del agujero en el techo del museo, a traves de la noche y del cielo. Y antes de que recuperes totalmente tu conciencia, antes de que el atontamiento se te haya pasado del todo, ya estas en el espacio. Te duele la cabeza, estas mareado, sientes el estomago hueco y un dolor fuerte en la espalda. Pero no puedes hacer nada. Absolutamente nada. Oyes que los motores se paran, sientes una vibracion desgarrante y comprendes que el cohete se ha desprendido. Ahora tu y el enorme macaco estan flotando libremente en el espacio. ¡Y estas aterrado!",
+		"img": "80",
+		"options":[
+			"Si crees que puedes salvarte, Navegue a la casilla 35.",
+			"Si piensas que el mono hara algo inusual, Navegue a la casilla 9."
+		],
+		"audio": "verdeCloaca"
+	},
+	{
+		"title": "LASTIMA",
+		"description": "En ese momento tienes mucha lastima de el. Piensas que esta prisionero en este cuarto en penumbras, rodeado de ranas, arañas y ratones. Ahora el mono camina lentamente desde la jaula de la araña hasta donde esta el raton, mordisqueando un pedazo de pan. El raton mira hacia arriba, moviendo los bigotes. El mono grita, con un sonido que parece el grito de una criatura y salta hacia atras. Sientes mas lastima que nunca. No tienen derecho a ponerlo aqui con… Pero antes de que termines ese pensamiento, el mono gigante se vuelve otra vez y te espia. Despues se indina con la boca abierta, agitando los brazos, y da una zancada hacia donde tu estas.",
+		"img": "81",
+		"options":[
+			"¿Todo lo que quiere es jugar? Navegue a la casilla 15.",
+			"¿O tiene alguna otra idea en la mente? Navegue a la casilla 59."
+		],
+		"audio": "indigo"
+	},
+	{
+		"title": "CERO OXIGENO",
+		"description": "Automaticamente das un golpe a la tarantula que sale volando y esta vez cae sobre el hombro del mono. Sorprendido, el mono salta hacia arriba, parlotenado y agitando los brazos. En ese momento das media vuelta, saltas sobre el cono de la parte delantera del modelo espacial y te precipitas hacia la escalera. Subes los escalones de dos en dos y agarras la puerta trampa del alunizador. Se abre y caes dentro. Y rapidamente colocas el pasador en su lugar. ¡Salvado! Te alejaste de ellos y no hay modo de que puedan encontrarte ahora que has traba la puerta trampa. Pero hay algo con lo que no contaste. Este un modelo de tamaño normal pero no tiene todo el equipo necesario. En particular, no tiene la provision de oxigeno que usan los astronautas. Y esta hermeticamente cerrado.No hay oxigeno. Rapidamente te vuelves y miras por la ventanita para ver que es lo que estan haciendo el mono y la araña, pero no puedes ver porque el estacaparate donde se exhiben particulas lunares te obstruye la visual. Empiezas a respirar con dificultad y te das cuenta de que necesitas aire, sea lo que sea que esten haciendo los animales. Vuelves a mirar el pasador de la puerta trampa y tratas de hacerlo girar. ¡Pero no lo logras! Tiras hacia ti, lo retuerces, te esfuerzas, pero nada de lo que haces consigue moverlo. Y comienzas a toser.",
+		"img": "82",
+		"options":[
+			"Navegue a la casilla 64."
+		],
+		"audio": "negro"
+	},
+	{
+		"title": "QUEMANDO",
+		"description": "Gritas porque la parilla esta tan caliente que tus dedos se ampollan inmediatamente. Tratas de liberarte pegando un tiron, pero tus dedos estan adheridos y comienzas a sentir un leve corriente electrica en todo el cuerpo. Todavia estas pegado cuando aparece el robot. Por un momento te parece que se queda mirandote y despues se inclina lentamente y estira los brazos. No quieres que te toque. Quieres que desaparezca o que vuelva al lugar donde estaba en exhibicion. Pero el dolor de la quemadura es tan intenso que no puedes hacer nada para liberarte. El robot emite un sonido que parece un gruñido, y que tiene eco por el casco espacial y el visor. Ahora extiende hacia adelante su enorme mano izquierda y sus asperos dedos tocan tu cuello. Y el extraño ser deja escapar el chillido mas escalogriante que has oido nunca. Despues se tambalea y cae hacia atras, y la corriente electrica que pasa por tu cuerpo lo incendia. En ese momento la parrilla deja de aferrarte los dedos. Das vuelta corriendo, tropiezas con la capsula espacial y caes hacia adelante… Directamente hacia el robot que se esta quemando! Y tu tambien empiezas a quemarte…",
+		"img": "83",
+		"options":[
+			"FIN"
+		],
+		"audio": "marron"
+	},
+	{
+		"title": "EL ESTALLO",
+		"description": "Tratas freneticamente de darte vuelta y volver hacia la puerta. Tiene que haber otra via para escapar del robot soldado. Pero cada vez que tratas de darte vuelta, empiezas a girar en esta atmosfera ingravida. Y sigue hinchandote. Te estas transformando en un globo… un enorme globo humano, y no es nada divertido. No puedes respirar, no te puedes mover como querrias hacerlo, y a medida que tus parpados siguen inflandose, tampoco puedes ver. Y tu ultimo sonido es un chillido, porque ni siquiera puedes gritan; y despues estallas…",
+		"img": "84",
+		"options":[
+			"FIN"
+		],
+		"audio": "verde"
+	},
+	{
+		"title": "LUZ VERDE",
+		"description": "Miras desesperadamente hacia el otro extremo del museo, donde esta la luz verde, pero no hay ninguna ayuda para ti por ese lado. Mas bien te parece que el rayo es mas brillante. Vuelves a gritar. Caes de rodillas mientras tus manos tantean freneticamente el suelo, despues te inclinas y comienzas a rodar. Pero no hay modo de escapar. Ves que aumenta el resplandor y sientes el calor que crece en torno tuyo. Cuando tratas de rodar el rayo te encuentra. Hay un destello subito, como si todo el museo brillara con miles de focos y sientes una quemazon subita y terrible. Tratas de respirar, pero ya estas paralizado…",
+		"img": "85",
+		"options":[
+			"FIN"
+		],
+		"audio": "rosa"
+	},
+	{
+		"title": "AHORAA",
+		"description": "Ese silbido que escuchaste te hizo recordar a una de las obras del museo de Mene Savasta Alsina que se llama AHORA. Una canción en la Superficie Hipertemporal. Ahora es una canción interactiva, compuesta e instalada en la Superficie Hipertemporal. Sus sonidos habilitan las múltiples dimensiones temporales que, solapadas, constituyen este entorno aural aumentado. Quien lo recorre evoca de un modo particular los tiempos potenciales de la composición, reescribiendo cada vez la canción. Dentro de la Superficie Hipertemporal, los sonidos que alguna vez fueron movimiento de la materia, hoy yacen congelados ocupando un lugar fijo. Como si fueran esculturas, sólidos temporales, cada instante de su duración original está anclado a una coordenada espacial específica. Sólo al recorrer ese espacio es posible conocer la temporalidad inmanente de cada sonido. Sólo quien transita la Superficie es capaz de develar con la escucha, la morfología espacial de esos sonidos que, silenciosos e invisibles, aguardan ser percibidos para volver a sonar. La distribución de los sonidos en el espacio configura las posibilidades de ser de la pieza musical interactiva. Porque moverse en el espacio de la Superficie es moverse en el tiempo. La posición del observador dentro de la sala, produce que un instante de esos sonidos se manifieste en el parlante. Si el espectador se mueve, los sonidos se desarrollan en la dirección y velocidad que su movimiento proponga. Si se queda quieto, el tiempo también se detiene. Ahora, al igual que el entorno compositivo que la aloja, reflexiona sobre la relación del tiempo y el espacio a partir de la idea de que todos los tiempos pueden coexistir siempre y en simultáneo en un mismo plano, y que es el observador quien los actualiza otorgándole un orden y sentido. Al recordar esto que te dijo el guía en el museo ahora todo cuadra como fue que los ciborgs habían detectado una anomalía...",
+		"img": "86",
+		"options":[
+			"Navegue a la casilla 87"
+		],
+		"audio": ""
+	},
+	{
+		"title": "EL SILBIDO",
+		"description": "Con ese extraño silbido cesan las vibraciones. El mono se queda muy quieto. Una luz verde se prende y se apaga, se prende y se apaga y despues desaparece, y una luz roja comienza a titilar. Despues oyes un siseo. Saltan chispas del tablero que el mono acaba de golpear. Sientes un olor muy peculiar… olor a goma quemada. Miras a tu alrededor como enloquecido pero no ves nada solo el olor se hace mas fuerte. Y el siseo se convierte en un sonido similar al de la panceta cuando se frie. Tragas saliva dificultosamente porque crees saber lo que significan el olor y el ruido. ¡Hay fuego detras del tablero! Aterrado, extiendes los brazos hacia alli, pero esta fuera del alcance de tus manos. Piensas que debe haber un extinguidor a bordo. ¿Pero donde?¿Donde? Quieres tantear bajo tu asiento, pero no tienes oprtunidad de hacerlo. Porque de pronto el sonido de algo que se chamusca se convierte en un bramido suave. Las llamas brotan del tablero, ¡y toda la nave espacial explota! Realmente no necesitas tu camara de todos modos… no te hara falta en el lugar donde vas a estar por el resto de tu cortisima vida.",
+		"img": "87",
+		"options":[
+			"FIN"
+		],
+		"audio": "verdeCloaca"
+	},
+	{
+		"title": "150K",
+		"description": "La silla comienza a sacudirse con violencia y estas seguro de haber puesto en funcionamiento el dispositivo de elevacion. ¡Pero no quiere subir hasta arriba y lanzarte en esa caida salvaje  a 150 kilometros por hora! ¡Todo lo que quieres es mantenerte alejado de esa enorme araña! Te apoderas del segundo control y lo haces deslizarse hacia atras y hacia adelante. No ocurre nada. Vuelves a hacerlo con mas fuerza… y de pronto la silla parece caer hacia abajo. ¡El guia no dijo nada sobre caidas hacia abajo! Pero la silla va hacia abajo, y en unos segundos llegas a un nivel por debajo del piso principal del museo. La pequeña puerta se abre y caes afuera. Te incorporas, preguntandote donde estaras. Primero piensas que simplemente llegaste al subsuelo y te tranquilizas, pero antes de que tengas tiempo de suspirar aliviado, oyes el rugido de unas turbinas poderosas. Estas en la central electrica del museo y las turbinas son los generadores. ¡Pero la oscuridad es absoluta y no hay nadie cerca!",
+		"img": "88",
+		"options":[
+			"Navegue a la casilla 112."
+		],
+		"audio": "rojo"
+	},
+	{
+		"title": "CABINA TELEFONICA",
+		"description": "Sigues mirando a tu alrededor en esta habitacion dedicada a las invenciones electromecanicas y ves algo aun mas interesante. Ves una caja colocada en sentido vertical y que te recuerda un cabina telefonica. Esta separada del resto, como si tuviera un valor especial y tiene mas cables de los que generalmente tienen las casillas de telefono y tu… Pero, claro. Es una cabina telefonica… de un tipo especial, equipada con radio. Esos cables son solo las conexiones de radio. Y este pensamiento casi te hace reir. Tal vez no puedas encontrar un camino seguro para salir del museo, pero todo lo que tienes que hacer es entrar a la cabina, llamar al motel, pedir con tu habitacion y decirle a tu padre que  venga a buscarte. Probablemente va a rezongar porque te escapaste, pero un reto es mnucho mejor que estar aqui atrapado. Vas hacia alli, dudas solo un momento y despues abres de un tiron la puerta angosta.",
+		"img": "89",
+		"options":[
+			"Navegue a la casilla 110"
+		],
+		"audio": "rosa"
+	},
+	{
+		"title": "AULLIDO",
+		"description": "Y el monstruoso astronauta te mira fijamente. Primero parece tener una expresion desconcertada, pero despues esta expresion desaparece y la reemplaza una mirada de ira terrible. ¡Aulla! Y el sonido es como el de un cohete cuando lo encienden. Da la impresion de que vibran las paredes del museo. Ahora levanta el escaparate mas alto todavia, lo mantiene arriba un momento y despues lo arroja hacia ti, mientras grita “¡Objeto lunar, objeto lunar, objeto lunar!” Ruedas rapidamente hacia la izquierda y gateas tratando de evitar el pasado mueble, pero es mucho mas grande que tu y no puedes escapar. Viene directamente hacia ti. Y lo ultimo que oyes es el grito alucinado del astronauta: “¡En el espacio hay desperdicios lunares!” No sabes que es lo que eso significa, pero ya nada te importa…",
+		"img": "90",
+		"options":[
+			"FIN"
+		],
+		"audio": "amarillo"
+	},
+	{
+		"title": "PEDALES",
+		"description": "Sentado en este estrecho vehiculo espacial y con las manos atadas te sientes mas desesperado cada minuto que pasa. Tanteas con los pies y encuentras tres pedales. No tienes manera de saber para que es cada uno, pero puesto que el vehiculo no esta montado sobre cohetes de verdad, piensas que puedes apretar uno de ellos sin hacer mayor daño. Dudas un momento, y despues oyes que el robot esta entrando en el salon principal del museo. Entonces respiras hondo, retienes la respiracion y pateas el pedal izquierdo. Pero esto no produce lo que tu esperabas.",
+		"img": "91",
+		"options":[
+			"Si crees que te has puesto en peligro, sigue en la pagina 43.",
+			"Si piensas que lo que has hecho te salvo de algun daño, sigue en la pagina 25."
+		],
+		"audio": "marron"
+	},
+	{
+		"title": "LA VENTANA",
+		"description": "Estas en la maqueta del Vostok tratando de serenarte cuando… ¡Oh, no! Justo cuando empiezas a tranquilizarte, oyes que alguien golpea fuertemente la puertita por la que entraste. El robot trepo por la escalerilla y esta ahi afuera. Ahora estas aterrorizado. Si puede trepar esa escalera, quiere decir que puede hacer casi cualquier otra cosa. Te das vuelta y miras hacia el otro extremo de la nave espacial rusa, con la esperanza de encontrar otra salida. Pero lo unico que ves es una ventana pequeña. La nave esta tan alejada del suelo del museo que podrias lastimarte de saltar, pero eso te parece mejor que ser quemado por las chispas que disparan los largos dedos del robot espacial. El robot golpea nuevamente la puerta… ¡y empieza a abrirla!",
+		"img": "92",
+		"options":[
+			"Navegue a la casilla 101."
+		],
+		"audio": "gris"
+	},
+	{
+		"title": "HIPNOTISMO",
+		"description": "Y quedas instantáneamente hipnotizado por esta saligna y grotesca araña que por alguna razón ha sufrido terribles modificaciones durante su viaje por el espacio. Eres capaz de ver. Eres capaz de pensar. Te das cuenta de lo que está pasando. ¡Pero no puedes hacer nada! Y el mono empieza a dar saltitos, como si gozara con tu actual estado. Su boca se abre y se cierra, se abre y se cierra. Después brinca hacia donde tú estás, parloteando a medida que se acerca y te agarra del cueIlo. Y te levanta muy fácilmente.",
+		"img": "93",
+		"options":[
+			"Navegue a la casilla 94."
+		],
+		"audio": "naranjaFuerte"
+	},
+	{
+		"title": "SOFIA CRESPO",
+		"description": "Al vivir la hipnosis en manos de la araña gigante te haces una idea de cómo puede ser que lo logre recordando lo que aprendiste en el tour del museo al ver la obra “Neural Zoo” de Sofia Crespo que es una exploración de las formas en que funciona la creatividad: la recombinación de elementos conocidos en elementos nuevos. Estas imágenes se parecen a la naturaleza, pero una naturaleza imaginada que ha sido reordenada. Nuestra corteza visual reconoce las texturas, pero el cerebro es consciente simultáneamente de que esos elementos no pertenecen a ninguna disposición de la realidad a la que tenga acceso. La visión por computadora y el aprendizaje automático podrían ofrecer un puente entre nosotros y una \"naturaleza\" especulativa a la que solo se puede acceder a través de altos niveles de computación paralela. Partiendo del nivel de nuestra realidad conocida, podríamos, en última instancia, digitalizar los procesos cognitivos y utilizarlos para alimentar nuevos aportes al mundo biológico, que retroalimenta un ciclo. Las rutinas en una red neuronal artificial se convierten en una herramienta de creación, que permite nuevas experiencias de lo familiar. ¿Puede el arte reducirse a la reasignación de datos absorbidos a través de procesos sensoriales? Igualmente, a pesar de tener una idea de cómo pudo lograr obtener la hipnosis la información no es suficiente para poder romper ese hechizo, así que continuas inmóvil en las manos del mono que está saltando de la emoción",
+		"img": "94",
+		"options":[
+			"Navegue a la casilla 95."
+		],
+		"audio": ""
+	},
+	{
+		"title": "COMIDA",
+		"description": "El monstruoso animal te lleva de nuevo a la habitación donde lo encontraste, con la siniestra araña saltando a su lado.El mono te lleva directamente hacia la jaula de la araña, se da vuelta y te deposita en el suelo con muy pocas ceremonias. Miras desesperadamente a tu alrededor porque oyes sonidos de rasguños que vienen de un rincón. Observas el lugar de donde vienen los ruidos. Allí ves seis tarántulas más pequeñas, crías de la grande, que se arrastran hacia ti. Y sabes que vas a ser su próxima comida…",
+		"img": "95",
+		"options":[
+			"FIN"
+		],
+		"audio": "naranjaFuerte"
+	},
+	{
+		"title": "SOFOCANTE",
+		"description": "Tus rodillas se doblan y tus brazos se aflojan tas de respirar hondo pero ahora el dolor es tan fuerte que no puedes hacerlo. Y después de unos instantes caes al suelo. El macaco gigante se pone en cuclillas cuando cas, sosteniéndote todavía por los hombros y no afloja apretón hasta que no quedas acostado de espaldas. Cuando ya estás casi inconsciente y preguntándote por qué ocurre todo esto, el animal te toma por las pies y comienza a arrastrarte por el pasillo en dirección a su gran jaula. Una vez allí te levanta y te arroja por la puerta, y cuando están adentro te empuja contra un rincón y te cubre cop una manta que tiene un olor horrible.Sabes que vas a sofocarte y las emanaciones de la manta te van a impedir respirar. Y también sabes que no tienes fuerzas suficientes como para sacarla de cima. A la mañana alguien vendrá a alimentar al anima y quienquiera que sea te va a descubrir yaciendo ahí, pero para entonces ya vas a estar asfixiado…",
+		"img": "96",
+		"options":[
+			"FIN"
+		],
+		"audio": "indigo"
+	},
+	{
+		"title": "CHOQUE ELECTRICO",
+		"description": "Tu corazón empieza a latir apresuradamente y sabes que has entrado en el cuarto equivocado. Das media vuelta y estás listo para salir corriendo cuando oyes un ruido como de algo que crepita. Vuelves a darte vuelta. El científico loco, y no hay otra expresión para describirlo, tiene en la mano algo que parece una linterna larga con un reflector muy gran de color rojo brillante. Te quedas mirándola. Se produce otra vez el ruido de crepitación. El extremo de la linterna se pone más rojo aún y sientes una sensación de cosquilleo en todo el cuerpo. Te echas a temblar porque sea quien sea esa persona, está dirigiendo esa cosa derecho hacia ti, y comprendes que produce electricidad de alto voltaje. Eso es lo que causa la sensación de hormigueo... ¡el choque eléctrico!",
+		"img": "97",
+		"options":[
+			"Navegue a la casilla 109"
+		],
+		"audio": "lila"
+	},
+	{
+		"title": "RESORTES",
+		"description": "Estás mirando la puerta y recordando lo que dijo el guía cuando oyes un murmullo similar al que se produce cuando frotan algo por el piso. ¡La araña! ¡Descubrió dónde estás y se está arrastrando hacia ti! Sin dudar pones tu mano sobre la mant ja de la puerta de la columna y la abres de un tirón. Te metes adentro, cierras la puerta y das un suspiro de alivio porque sabes que la araña no puede entrar ahí, Sin embargo, te das cuenta de que estás totalmente a oscuras excepto por una pequeña luz en lo alto la columna Te deslizas en la silla, te echas hacia atrás y decides esperar ahí un rato. Tarde o temprano la araña se daría por vencida. Dejas que tus ojos se acostumbren a la oscuridad y después echas una ojeada. A la izquierda ves dos resortes resistentes, que probablemente usarán para reducir el impacto cuando el astronauta desciende. A la derecha ves dos interruptores. Son pequeños y tienen una forma extraña, y los tanteas con la mano. Justo en ese momento oyes el ruido de algo que se restriega contra la puerta y la impresión hace que te estremezcas. Tu mano derecha da un tirón... ¡y levantas una de las palancas!",
+		"img": "98",
+		"options":[
+			"Si crees que la puerta se abre de golpe, Navega a la casilla 88.",
+			"Si piensas que ocurre otra cosa. Navegue a la casilla 10."
+
+		],
+		"audio": "rojo"
+	},
+	{
+		"title": "ESCONDIDO",
+		"description": "De modo que antes de que el extraño pueda verte, te escondes detrás del primer escaparate que encuentras y te pones en cuclillas. Y desde allí lo espías. Es verdad que este ser viste de uniforme, pero no parece un guardián. En cambio, recuerdas haber visto en uno de los extremos del museo varios soldados vestidos con ropa de combate que cargaban pequeños lanzacohetes. Y eso es exactamente lo que éste tiene en la mano: un cohete que busca el calor y que podría disparar fácilmente con el lanzacohetes que lleva colgado del hombro.",
+		"img": "99",
+		"options":[
+			"Estás a punto de convertirte en un objetivo de combate? Navega a la casilla 47. Si crees que puedes evitar que te vea.",
+			"Navegue a la casilla 26."
+
+		],
+		"audio": "verde"
+	},
+	{
+		"title": "ABEJAS",
+		"description": "¡Y las abejas también deben haber sufrido alteraciones! ¡El cartel dice PELIGRO! Pero cuando apenas has tenido tiempo de dar media vuelta, el macaco gigante empieza a reírse y después abre la puerta de la jaula. El zumbido es ahora feroz. ¡Y tú quieres darte vuelta y salir corriendo! ¡Pero antes de que logres hacerlo, el mono te empuja dentro de la jaula y cierra de un portazo! Caes dentro e inmediatamente te tapa el enjambre de poderosas abejas. Gritas y gritas cuando comienzan. a picarte pero en unos segundos tus gritos cesan. Y ya no sientes nada…",
+		"img": "100",
+		"options":[
+			"FIN"
+
+		],
+		"audio": "celeste"
+	},
+	{
+		"title": "RUIDO",
+		"description": "El robot golpea aún más fuerte la puerta del Vostok y está a punto de abrirla. Te acercas temblando a la ventana, pero no miras por dónde un vas y tu pie tropieza con alguna cosa que está costado de la maqueta, y de pronto la nave espacial empieza a vibrar. Se inclina lentamente y caes hacia tris, contra la puerta donde está el robot. La puerta se abre completamente... ¡y chocas con el extraño ser! Te agarra, pero falla la escalera y tú y el robot caen al piso. A ti no te pasa nada, pero el robot se hace pedazos. ¡Y sin embargo sigue gritando! El ruido es ensordecedor. Pero el robot ya no puede perseguirte. Cuando su cabeza con casco se desprende y sale rodando, te das vuelta, la pateas y corres hacia la sala de proyecciones. Vas hacia el asiento correspondiente, tomas tu cámara y te escurres de nuevo hacia la puerta principal. Esta 2, en lugar de intentar abrirla con la manija, la golpeas con el hombro... y se abre de golpe. Y estás afuera de este aterrador museo…",
+		"img": "101",
+		"options":[
+			"FIN"
+
+		],
+		"audio": "gris"
+	},
+	{
+		"title": "DOLOR DE CABEZA",
+		"description": "Te duele la cabeza, no puedes parar de gritar y tratas desesperadamente de liberar los brazos. Finalmente sueltas la palanca, sacas el dedo del botón y agarras los apoyabrazos con las dos manos. La cápsula lentamente deja de saltar. Piensas que pronto se quedará quieta otra vez, y entonces podrás intentar otra cosa para liberarte. Pero justo cuando se detienen los movimientos de la cápsula, sientes que hay algo cerca tuyo. Te das vuelta y miras a través de la abertura del parabrisas y te encuentras con los ojos del robot, agrandados por el grueso cristal verde del visor. Ahora extiende ambas manos y te aferra los hombros con sus dedos enguantados y gruesos, y te levanta con tanta fuerza que se sueltan las bandas de metal que retenían tus brazos.",
+		"img": "102",
+		"options":[
+			"Navegue a la casilla  72"
+
+		],
+		"audio": "lila"
+	},
+	{
+		"title": "DISPARO",
+		"description": "¡Y el cemento se desintegra y cae al suelo del museo convertido en pedazos de grava y partículas de arena! Te cuesta creer que haya un arma capaz de hacer eso. Pero acabas de verlo! Te incorporas, gritando \"¡No vuelva a disparar!\" levantando los brazos. Estás temblando, tus rodillas se sacuden y tienes la garganta seca. Pero el robot soldado no puede oírte. Lo único que puede hacer es disparar sus cohetes que buscan el calor. Ves como su dedo se cierra sobre el gatillo. Ves el rápido estallido en el cañón del disparador. Y mientras el cohete viene zumbando hacia ti, sabes que ésas son las últimas cosas que vas a ver… FIN",
+		"img": "103",
+		"options":[
+			"FIN"
+
+		],
+		"audio": "verde"
+	},
+	{
+		"title": "EL PLAN",
+		"description": "Instantes después de que el soldado se evapore, la araña regresa, toma otra vez la garra del mono y los tres continúan cruzando el salón del museo. Los dos te llevan a través de un pasillo estrecho y se detienen frente a lo que, según el guía, es una versión reducida de uno de los cohetes del proyecto Géminis, con su cápsula para dos personas. Aunque no es tan largo como el verdadero, esta réplica tiene más de seis metros de longitud y pese a estar acostado horizontalmente, se apoya en el mismo tipo de maquinaria que soportó al auténtico cohete de lanzamiento y el vehículo espacial, en una de las misiones. Tragas saliva al verlo, porque estás convencido de que el mono y la araña te han traído aquí con algún propósito.",
+		"img": "104",
+		"options":[
+			"Si crees que tienen un plan bien definido, sigue en pág 45.",
+			"Si piensas que  este es el momento apropiado para escapar, Navegue a la casilla 22."
+
+		],
+		"audio": "negro"
+	},
+	{
+		"title": "EL VIEJO",
+		"description": "Te das vuelta y miras hacia el lugar de donde viene el sonido, y descubres con horror que no estás solo. El sonido viene de un dispositivo de medición digital y que lo está usando, sentado detrás de una de las mesas de trabajo más grandes, es un hombre muy viejo que tiene la estatura de un enano, el pelo gris parado de punta, una barba rala y gruesos anteojos. Te espia, y te das cuenta de que te estuvo observando desde que entraste a la habitación; pero sólo cuando lo miras empieza a hablar. \"NADIE ENTRA NUNCA A ESTE CUARTO!\" dice. La voz es chillona y temblorosa, pero feroz y muy atemorizadora.",
+		"img": "105",
+		"options":[
+			"Navegue a la casilla 118"
+
+		],
+		"audio": "rosa"
+	},
+	{
+		"title": "SUBE Y BAJA",
+		"description": "El asiento comienza a vibrar y antes de que puedas hacer nada para impedirlo, el mecanismo te hace subir lentamente. Retiras bruscamente tu mano de las palancas, pensando que si no vuelves a tocarlas el mecanismo se detendrá. Pero la silla sigue ascendiendo. Lo has puesto en marcha, pero no recuerdas que dijo el guía sobre el modo de pararlo. ¡Ni siquiera estás seguro de que lo haya mencionado! Subes y subes... y sabes que en unos instantes llegarás arriba. ¡Y temes que una vez allí comience a actuar el mecanismo de liberación y te haga caer a una velocidad de 150 kilómetros por hora! ¡Gritas! Te retuerces hacia la izquierda y hacia la derecha, pero no quieres contorsionarte demasiado porque si te deslizas fuera de la silla caerás sin ninguna amortiguación... y no sabes qué hay en el soporte del asiento.",
+		"img": "106",
+		"options":[
+			"Navegue a la casilla 77"
+
+		],
+		"audio": "rojo"
+	},
+	{
+		"title": "LA SIRENA",
+		"description": "Pero no hay nada que te detenga. Ni siquiera algo que haga más lenta tu caída en picada... ¿Hacia qué? El guía dijo que el mecanismo se detenía abruptamente cuando llegaba al fondo, pero te das cuenta de que algo no marcha como debería. A lo mejor es porque el equipo eléctrico del museo no funciona con toda su potencia. Después de todo ya casi es medianoche. O quizás hay otro control que deberías usar, pero no sabes cual es. La velocidad te quita el aliento y apenas logras mantenerte sobre el asiento, que parece caer más rápido que tú. Si… Sin embargo, de pronto golpeas fuerte contra el fondo. Te parece que te están achatando, pero cuando comienzas a tranquilizarte, súbitamente la silla empieza a vibrar. Tratas de levantarte pero no puedes hacerlo. La sirena suena nuevamente, ¡y después algo estalla! La silla comienza a girar violentamente y te arroja contra la puerta, que se abre con el impacto. Y allí está, esperándote, la gigantesca tarántula. Cuando caes al suelo, el animal salta hacia ti. Y sabe exactamente dónde y cómo morder...",
+		"img": "107",
+		"options":[
+			"FIN"
+
+		],
+		"audio": "rojo"
+	},
+	{
+		"title": "EL ESPACIO",
+		"description": "Porque lo hiciste con la fuerza suficiente como para oprimir todo el botón y el diván súbitamente comienza a girar... cada vez más rápido. Y la pantalla se transforma en una mancha borrosa con rayas de colores. Oprimes febrilmente los otros dos botones. Uno de ellos hace que luces brillantes se prendan y se apaguen intermitentemente. El otro eleva el diván. Gritas y das alaridos, pero el guía dijo que el planetario estaba construido a prueba de ruidos. Nadie podría verte aunque estuviera al lado de la puerta. El diván se convierte en un remolino y la bóveda del techo da vueltas cada vez más rápido, y tú estás cada vez más y más mareado. Tratas de aferrarte los bordes del diván, pero está cubierto por una tela vinilica resbaladiza y no puedes agarrarte. Tratas de darte vuelta pero no lo consigues, y finalmente te haces una pelota, respira hondo, y ruedas con todas tus fuerzas hacia la izquierda. Caes directamente sobre unos cables eléctricos. Sueltan chispas y cuando estás deseando haberte quedado en el motel, sientes que te lanzan hacia arriba. Hacia la pantalla giratoria. Hacia la estrella más grande. Hacia el espacio. Y mientras sientes la corriente eléctrica que te hormiguea por todo el cuerpo, piensas que vas a estar en esa bóveda llena de estrellas para siempre…",
+		"img": "108",
+		"options":[
+			"FIN"
+
+		],
+		"audio": "rojo"
+	},
+	{
+		"title": "ARMAS MODERNAS",
+		"description": "De modo que eso es lo que están haciendo con estos animales. Los están usando para probar distintos dispositivos eléctricos y averiguar cuánta descarga pueden soportar, antes de utilizar los mismos dispositivos con los astronautas. ¿O se trata de fantásticas armas modernas? ¡No lo sabes! ¡No lo quieres saber! Todo lo que quieres es salir corriendo de aquí… Pero antes de que puedas siquiera completar tu pensamiento, el científico te apunta con su arma-linterna, te lanza una sonrisa enloquecida y dispara otra vez el dispositivo. El cosquilleo se transforma en una fuerte quemadura, y tu cuerpo parece incendiarse. Cuando caes al suelo te das cuenta de que es un tipo muy nuevo de arma. Y sabes... que no... podrás escapar…",
+		"img": "109",
+		"options":[
+			"FIN"
+
+		],
+		"audio": "lila"
+	},
+	{
+		"title": "CLICK",
+		"description": "Atraviesas la pequeña abertura y dejas que la puerta se cierre, y cuando lo haces oyes tres \"click\" en rápida sucesión. Te das vuelta para mirarla; ninguna cabina de teléfono tiene tres cerrojos, pero te encoger de hombros y piensas que debe ser una novedad. Tal vez a los ingenieros les gustan los tres cerrojos. Buscas el teléfono, pero en lugar de un aparato ves un tablero de interruptores. Te quedas mirándolo un momento y después te das vuelta. Ahí, en la pared opuesta del tablero, hay cuatro estrechas barras de metal que van del techo al suelo y tienen brillo. Debe ser un tipo de teléfono totalmente novedoso. Seguramente hay que oprimir los números en el tablero, el mecanismo conecta la llamada y las barras metálicas permiten oír y hablar sin tener que sostener un aparato. Sonríes y aprietas el botón principal del tablero. Inmedia. tamente oyes un zumbido y de pronto te asalta un pensamiento inquietante. Esto no es un teléfono. Es uno de esos medios de transporte del futuro, una forma de hacer que la gente atraviese grandes distancias convirtiéndola en una onda electrónica! El zumbido aumenta de volumen, y sientes que esas estrechas barras metálicas despiden calor. Tam bién sientes que te estás encogiendo. Te vuelves más bajo y más menudo. Y justo cuando te das cuenta de lo que está ocurriendo, desapareces totalmente de la cabina. Ahora eres una onda electrónica que están transmitiendo, pero no hay ningún aparato receptor porque los ingenieros han construido solo el emisor…",
+		"img": "110",
+		"options":[
+			"FIN"
+
+		],
+		"audio": "rosa"
+	},
+	{
+		"title": "FLOTAS",
+		"description": "Mientras sigues moviéndote, tratas de dar un paso, y llegas a la mitad del cuarto. ¡En realidad estás flotando! Das otro paso, y flotas hasta la pared opuesta. Se trata de un ámbito con muy poca gravedad, para que los astronautas que van a la luna sepan lo que les espera en su superficie. Al principio te sientes aliviado por haberte alejado del soldado robot y al mismo tiempo te atrae la idea de moverte como si no tuvieras peso. Pero antes de tener tiempo de disfrutar esa sensación, te da la impresión de que te estás hinchando. Tu estómago parece aumentar de tamaño y empiezas a sentir la piel tirante. Súbitamente sabes a qué se debe esto. Te estás moviendo casi en el vacío. Para crear este cuarto sin gravedad, los ingenieros tuvieron que sacar todo el aire, y la presión de tu cuerpo hace que te hinches. ¡Y eso no te gusta nada!",
+		"img": "111",
+		"options":[
+			"Navegue a la casila 84"
+
+		],
+		"audio": "verde"
+	},
+	{
+		"title": "LA CINTA",
+		"description": "Te pones de pie en medio de esta oscuridad total y lentamente comienzas a tantear a tu alrededor. Tocas una máquina con forma de tambor e inmediatamente retiras la mano. Está demasiado caliente como para tocarla. Das un paso a la izquierda, continúas tanteando y encuentras lo que según te parece es el pasamanos de la escalera. Bien. Sólo tendrás que subir por ella, encontrar la puerta y… Pero el pasamanos corre a lo largo de algo diferente, algo muy diferente. Es una cinta transportadora que lleva hacia arriba. Te inclinas para mirar mejor, tratando de decidir si debes o no subirte a ella, ¡pero antes de que puedas tomar una decisión, un golpe en la cabeza decide por ti! Te lanza hacia adelante y te deja tendido sobre la cinta transportadora. ¡Pero no quieres subir en eso! No quieres volver arriba, al museo, todo lo que quieres es salir de ahí… Pero te aferras a la cinta para no caerte sobre las maquinarias calientes. Los rodillos zumban, la cinta se acelera y de golpe atraviesas una doble puerta con batientes y la cinta te lanza hacia arriba y hacia afuera. Caes sobre un suelo blando y cubierto de pasto, y de pronto comprendes lo que sucedió: la cinta transportadora es la que lleva la basura al exterior. Te levantas y comienzas a correr; tropiezas con los tachos de desperdicios pero no te importa. Estás afuera. Estás realmente afuera…",
+		"img": "112",
+		"options":[
+			"FIN"
+
+		],
+		"audio": "rojo"
+	},
+	{
+		"title": "HELICOPTERO ",
+		"description": "¡Este helicóptero va a chocar contra el cielo raso! Y en unos segundos más eso es exactamente lo que hace, e inmediatamente comienzan a salir llamaradas del motor. El aparato se tambalea y después cae en picada hacia el suelo. Aúllas y gritas y tratas de agarrar algo en un intento por salir de ahí antes de que se estrelle. Te apoderas de una palanca grande y la levantas, y de pronto los cohetes comienzan a dispararse. Se estrellan contra la nave espacial Apolo... la misma en la cual tres astronautas llegaron a la luna. Uno de ellos le da a la gigantesca maqueta del telescopio y llueven estrellas sintéticas por todas partes. Otro cohete derriba la réplica del Vostok ruso. Y otro cae en la jaula donde está el pequeño macaco.",
+		"img": "113",
+		"options":[
+			"Navegue a la casilla 114"
+
+		],
+		"audio": "verdeClarito"
+	},
+	{
+		"title": "RANDOM",
+		"description": "En este momento en que sientes que no tienes control de la realidad y parece todo sumamente aleatorio se te viene a la cabeza Vsauce que sostiene que la aleatoriedad se puede calcular, tal como cuando programas en Processing y utilizas la función “random” que la sintaxis tiene como composición poner entre paréntesis dos valores en los que la función tiene que “elegir aleatoriamente”. Cada vez que se llama a la función random (), devuelve un valor inesperado dentro del rango especificado. Si solo se pasa un parámetro a la función, devolverá un valor flotante entre cero y el valor del parámetro alto. El resultado, entonces parece que es algo aleatorio, pero en realidad lo configuramos nosotros. Si algo es impredecible y no contiene patrones reconocibles, podemos llamarlo aleatorio pero muchas cosas en nuestro entorno parecen aleatorias, pero si tenemos la información suficiente las podemos predecir, esto no quiere decir que la aleatoriedad no exista. Para determinar qué es y no es aleatorio la mecánica cuántica puede tener la respuesta ya que describe las propiedades de las cosas con un tamaño cuántico como probabilidades o posibilidades, entonces existen situaciones en las que solo lo sabremos una vez que miramos y están determinadas por una aleatoriedad arraigada y tejida en el universo mismo. Einstein se negaba a creer esto y por eso afirmaba que “dios juega a los dados con el universo”. Y eso es exactamente lo que te esta pasando ahora estas a completa merced del destino y dios esta jugando a los dados con tu vida y calculando los pocos datos que tienes te das cuenta de que no existen muchas probabilidades de que salgas de ahí con vida...",
+		"img": "114",
+		"options":[
+			"Navegue a la casilla 115"
+
+		],
+		"audio": "verdeClarito"
+	},
+	{
+		"title": "LLAMAS",
+		"description": "Otro de los cohetes se estrella contra la pared opuesta del museo, la cual se incendia, y cuando empieza a quemarse comprendes que nunca podrás escapar, porque estás atrapado en la cabina del helicóptero en llamas...",
+		"img": "115",
+		"options":[
+			"FIN"
+
+		],
+		"audio": "verdeClarito"
+	},
+	{
+		"title": "LA PUERTA",
+		"description": "Te das vuelta temblando y miras hacia el lugar de donde proviene el sonido. Ves un gran aparato rojo parecido a una pantalla de televisión, donde aparecen pequeños números en rápida secuencia, y se produce un tic tac a intervalos regulares. Te quedas mirándclo y de pronto los números desaparecen, y en lugar surge la cabeza con casco de un astronauta, solo que a través del visor ves una cara que parece la de un monstruo de ojos púrpura. Y mientras continúas mirando la cabeza lentamente sale de la pantalla y se corporiza. Te das cuenta de que estás ante algo que debe haberlo traído del espacio. De pronto oyes una risa, pero viene de un altoparlante que está sobre tu cabeza. Miras en esa dirección y una voz muy clara dice \"¡Ve hacia la parte de atrás! ¡Hay otra puerta, pero no vuelvas nunca aquí!\" La voz va muriendo y cuando miras otra vez hacia la aparición, ves que vuelve a la pantalla de televisión, se desvanece y aparecen otra vez los números. ¡No esperas a recibir otra invitación! ¡No te importa la cámara, la buscarás mañana! Olvidándote de las mesas de trabajo, te lanzas hacia la parte de atrás. Y ahí encuentras una puerta común. Empujas la manija, te deslizas por la abertura y ya estás fuera del mu seo! Y ves que no estás lejos de tu motel… FIN",
+		"img": "116",
+		"options":[
+			"FIN"
+
+		],
+		"audio": "rosa"
+	},
+	{
+		"title": "ABEJAS",
+		"description": "El animal te aprieta fuerte la mano como si pudiera sentir tu inseguridad, y después da un tirón, te obliga a doblar en una esquina y a seguir caminando por un pasillo aún más angosto. Y a medida que avanzas comienzas a or zumbidos. A cada paso el ruido se hace más intenso. Llegan a otra esquina en ángulo recto y el mono te conduce a través de la estrecha abertura de una jaula muy tapada. Después da un paso al costado y tú ves un gran cartel que hay en la jaula: ABEJAS ESPACIALES - PELIGRO ES ESENCIAL USAR ROPA DE PROTECCIÓN! ¡Abejas espaciales! No sabes nada sobre abejas espaciales pero rápidamente se te ocurre que éstas también debieron ser llevadas en una de las misiones espaciales de experimentación…",
+		"img": "117",
+		"options":[
+			"Navegue a la casilla 100"
+
+		],
+		"audio": "celeste"
+	},
+	{
+		"title": "PROHIBIDO",
+		"description": "Tratas de explicar por qué entraste, pero el viejo levanta con violencia una de las herramientas que encuentra cerca. Parece un pequeño inflador de bicicletas pero sabes que no puede ser algo así. Debe ser un tipo de arma. Le gritas que no lo use, pero te ignora, apunta hacia ti y tira hacia atrás el émbolo. ¡Gritas otra vez! Se ríe con una risa rechinante y entrecortada, pero sin alegría. Toma puntería y con un movimiento súbito hunde el émbolo hasta el fondo. Salen chispas del cañón del arma y algo te golpea con violencia en mitad de la frente. Tratas de llevar la mano al lugar en que te hirió, pero te das cuenta de que estás paralizado. \"¡NADIE ENTRA NUNCA A ESTE CUARTO!\" grita nuevamente el viejo. Y mientras caes al suelo, sabes que esas son las últimas palabras que oyes…",
+		"img": "118",
+		"options":[
+			"FIN"
+
+		],
+		"audio": "rosa"
 	}
+
+
+
+
 ]
